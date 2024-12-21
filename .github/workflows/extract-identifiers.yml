@@ -5,7 +5,7 @@ name: "Extract identifiers"
 on:
   push:
     branches:
-      - "2.0.x"
+      - "2.1.x"
     paths:
       - '.github/workflows/extract-identifiers.yml'
       - 'identifier-extractor/**'
