@@ -105,6 +105,13 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L437"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L394",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L423",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L437"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L394",
@@ -185,6 +192,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L611"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L611"
             ]
@@ -288,6 +300,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L627"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L627"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L627"
@@ -385,6 +402,12 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L322"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L314",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L322"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L314",
@@ -464,6 +487,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L204"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L204"
             ]
@@ -550,6 +578,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L113"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L113"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L113"
@@ -628,6 +661,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L595"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L595"
             ]
@@ -735,6 +773,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L376"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L376"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L376"
@@ -813,6 +856,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L493"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L493"
             ]
@@ -924,6 +972,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L346"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L346"
+            ]
+        },
         "PHPStan\\Rules\\Symfony\\InvalidArgumentDefaultValueRule": {
             "phpstan/phpstan-symfony": [
                 "https://github.com/phpstan/phpstan-symfony/blob/2.0.x/src/Rules/Symfony/InvalidArgumentDefaultValueRule.php#L65",
@@ -1018,6 +1071,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L582"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L582"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L582"
@@ -1096,6 +1154,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L106"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L106"
             ]
@@ -1182,6 +1245,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L292"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L292"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L292"
@@ -1260,6 +1328,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L361"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L361"
             ]
@@ -1391,6 +1464,13 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L229",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L238",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L248"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L229",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L238",
@@ -1554,7 +1634,7 @@
     "assign.propertyType": {
         "PHPStan\\Rules\\Properties\\TypesAssignedToPropertiesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/TypesAssignedToPropertiesRule.php#L78"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/TypesAssignedToPropertiesRule.php#L100"
             ]
         }
     },
@@ -1630,6 +1710,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L65"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L65"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L65"
@@ -1694,6 +1779,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L119"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L119"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L119"
@@ -1742,6 +1832,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L101"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L101"
             ]
@@ -1812,6 +1907,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L109"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L109"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L109"
@@ -1860,6 +1960,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L86"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L86"
             ]
@@ -1916,6 +2021,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L57"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L57"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L57"
@@ -1968,6 +2078,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L49"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L49"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L49"
@@ -2016,6 +2131,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L77"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L77"
             ]
@@ -2114,6 +2234,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
@@ -2192,6 +2317,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -2366,8 +2496,8 @@
     "break.outOfLoop": {
         "PHPStan\\Rules\\Keywords\\ContinueBreakInLoopRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L53",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L78"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L74"
             ]
         }
     },
@@ -2428,6 +2558,12 @@
     },
     "callable.shadowTemplate": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/GenericCallableRuleHelper.php#L110",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/GenericCallableRuleHelper.php#L93"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/GenericCallableRuleHelper.php#L110",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/GenericCallableRuleHelper.php#L93"
@@ -2516,6 +2652,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
@@ -2594,6 +2735,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -3032,6 +3178,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
@@ -3077,7 +3228,17 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
@@ -3572,6 +3733,12 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L93"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L170",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L93"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L170",
@@ -3635,12 +3802,31 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ExistingClassesInPropertiesRule.php#L72"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L160",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L219",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L277",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L402",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L454"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\ReadingWriteOnlyPropertiesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
             ]
@@ -3907,6 +4093,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
@@ -3952,7 +4143,17 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L77"
             ]
@@ -4395,8 +4596,8 @@
     "continue.outOfLoop": {
         "PHPStan\\Rules\\Keywords\\ContinueBreakInLoopRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L53",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L78"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Keywords/ContinueBreakInLoopRule.php#L74"
             ]
         }
     },
@@ -5029,6 +5230,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
@@ -5074,7 +5280,17 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
@@ -5379,6 +5595,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
@@ -5501,6 +5722,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -5708,6 +5934,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L125"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L125"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L125"
@@ -5882,6 +6113,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L113"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L113"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L113"
@@ -5944,6 +6180,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L78"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L78"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L78"
@@ -5987,6 +6228,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L84"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L84"
             ]
@@ -6145,6 +6391,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L76"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L76"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L76"
@@ -6293,6 +6544,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L91"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L91"
             ]
@@ -6493,6 +6749,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L52"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L52"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L52"
@@ -6645,6 +6906,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L161"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L161"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L161"
@@ -6707,6 +6973,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L131"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L131"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L131"
@@ -6754,6 +7025,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L156"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L156"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L156"
@@ -6797,6 +7073,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L205"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L205"
             ]
@@ -6873,6 +7154,12 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L104",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L181"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L104",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/TemplateTypeCheck.php#L181"
@@ -7662,6 +7949,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
@@ -7707,7 +7999,17 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
@@ -8351,6 +8653,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L510"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L510"
+            ]
         }
     },
     "method.tentativeReturnType": {
@@ -8432,6 +8739,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
@@ -8571,6 +8883,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -8746,6 +9063,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/MissingPropertyTypehintRule.php#L82"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\SetPropertyHookParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L151"
+            ]
         }
     },
     "missingType.checkedException": {
@@ -8757,6 +9079,11 @@
         "PHPStan\\Rules\\Exceptions\\MissingCheckedExceptionInMethodThrowsRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/MissingCheckedExceptionInMethodThrowsRule.php#L41"
+            ]
+        },
+        "PHPStan\\Rules\\Exceptions\\MissingCheckedExceptionInPropertyHookThrowsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/MissingCheckedExceptionInPropertyHookThrowsRule.php#L48"
             ]
         }
     },
@@ -8890,6 +9217,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/MissingPropertyTypehintRule.php#L72"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\SetPropertyHookParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L140"
+            ]
         }
     },
     "missingType.iterableValue": {
@@ -9001,6 +9333,11 @@
         "PHPStan\\Rules\\Properties\\MissingPropertyTypehintRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/MissingPropertyTypehintRule.php#L60"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\SetPropertyHookParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L127"
             ]
         }
     },
@@ -9281,6 +9618,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
@@ -9359,6 +9701,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -9744,7 +10091,12 @@
     "paramClosureThis.nonClosure": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L198"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L175"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L175"
             ]
         }
     },
@@ -9919,6 +10271,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L721"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L721"
+            ]
         }
     },
     "parameter.missing": {
@@ -9953,6 +10310,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L433"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L433"
+            ]
         }
     },
     "parameter.notByRef": {
@@ -9968,7 +10330,12 @@
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L157"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L134"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L134"
             ]
         }
     },
@@ -9990,7 +10357,12 @@
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L82"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L59"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L59"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
@@ -10039,8 +10411,14 @@
     "parameter.phpDocType": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L172",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L181"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L149",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L158"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L149",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L158"
             ]
         }
     },
@@ -10061,6 +10439,11 @@
             ]
         },
         "PHPStan\\Rules\\Methods\\ExistingClassesInTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L545"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L545"
             ]
@@ -10086,6 +10469,12 @@
             ]
         },
         "PHPStan\\Rules\\Methods\\ExistingClassesInTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L169",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L416"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L169",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L416"
@@ -10116,6 +10505,12 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L116",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L328"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L116",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L328"
+            ]
         }
     },
     "parameter.unresolvableNativeType": {
@@ -10142,12 +10537,23 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L151",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L389"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L151",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L389"
+            ]
         }
     },
     "parameter.unresolvableType": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L91"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L68"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L68"
             ]
         }
     },
@@ -10194,6 +10600,12 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L141",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L379"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L141",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L379"
+            ]
         }
     },
     "parameterByRef.type": {
@@ -10218,15 +10630,15 @@
     "phpDoc.parseError": {
         "PHPStan\\Rules\\PhpDoc\\InvalidPhpDocTagValueRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPhpDocTagValueRule.php#L76",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPhpDocTagValueRule.php#L90"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPhpDocTagValueRule.php#L80",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPhpDocTagValueRule.php#L94"
             ]
         }
     },
     "phpDoc.phpstanTag": {
         "PHPStan\\Rules\\PhpDoc\\InvalidPHPStanDocTagRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPHPStanDocTagRule.php#L108"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPHPStanDocTagRule.php#L112"
             ]
         }
     },
@@ -10285,7 +10697,7 @@
         },
         "PHPStan\\PhpDoc\\StubValidator": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/PhpDoc/StubValidator.php#L161"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/PhpDoc/StubValidator.php#L162"
             ]
         }
     },
@@ -11104,9 +11516,9 @@
     "property.invalidPromoted": {
         "PHPStan\\Rules\\Classes\\InvalidPromotedPropertiesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L63",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L71",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L68",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L76",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L97"
             ]
         }
     },
@@ -11172,14 +11584,14 @@
     "property.onlyRead": {
         "PHPStan\\Rules\\DeadCode\\UnusedPrivatePropertyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L209"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L230"
             ]
         }
     },
     "property.onlyWritten": {
         "PHPStan\\Rules\\DeadCode\\UnusedPrivatePropertyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L202"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L223"
             ]
         }
     },
@@ -11214,7 +11626,7 @@
     "property.promotedNotSupported": {
         "PHPStan\\Rules\\Classes\\InvalidPromotedPropertiesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L50"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InvalidPromotedPropertiesRule.php#L55"
             ]
         }
     },
@@ -11276,22 +11688,22 @@
     "property.readOnlyByPhpDocAssignNotInConstructor": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L97"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L110"
             ]
         }
     },
     "property.readOnlyByPhpDocAssignNotOnThis": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L85"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L98"
             ]
         }
     },
     "property.readOnlyByPhpDocAssignOutOfClass": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L61",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L69"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L74",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L82"
             ]
         }
     },
@@ -11404,7 +11816,7 @@
     "property.unused": {
         "PHPStan\\Rules\\DeadCode\\UnusedPrivatePropertyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L197"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/DeadCode/UnusedPrivatePropertyRule.php#L218"
             ]
         }
     },
@@ -11427,6 +11839,36 @@
         "PHPStan\\Rules\\Properties\\ReadingWriteOnlyPropertiesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadingWriteOnlyPropertiesRule.php#L69"
+            ]
+        }
+    },
+    "propertyGetHook.noRead": {
+        "PHPStan\\Rules\\Properties\\GetNonVirtualPropertyHookReadRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/GetNonVirtualPropertyHookReadRule.php#L92"
+            ]
+        }
+    },
+    "propertySetHook.nativeParameterType": {
+        "PHPStan\\Rules\\Properties\\SetPropertyHookParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L63",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L73",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L85"
+            ]
+        }
+    },
+    "propertySetHook.noAssign": {
+        "PHPStan\\Rules\\Properties\\SetNonVirtualPropertyHookAssignRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetNonVirtualPropertyHookAssignRule.php#L89"
+            ]
+        }
+    },
+    "propertySetHook.parameterType": {
+        "PHPStan\\Rules\\Properties\\SetPropertyHookParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/SetPropertyHookParameterRule.php#L105"
             ]
         }
     },
@@ -11805,13 +12247,18 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L69"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L69"
+            ]
         }
     },
     "return.missing": {
         "PHPStan\\Rules\\Missing\\MissingReturnRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L139",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L88"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L144",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L93"
             ]
         }
     },
@@ -11838,7 +12285,12 @@
         },
         "PHPStan\\Rules\\Missing\\MissingReturnRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L112"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L117"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L44"
             ]
         }
     },
@@ -11869,13 +12321,24 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L478"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L478"
+            ]
         }
     },
     "return.phpDocType": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L230",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L237"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L206",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L213"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L206",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L213"
             ]
         }
     },
@@ -11903,6 +12366,12 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L227",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L464"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L227",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L464"
+            ]
         }
     },
     "return.type": {
@@ -11924,7 +12393,12 @@
         "PHPStan\\Rules\\Methods\\ReturnTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L102",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/ReturnTypeRule.php#L106"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/ReturnTypeRule.php#L114"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L102"
             ]
         }
     },
@@ -11948,6 +12422,12 @@
             ]
         },
         "PHPStan\\Rules\\Methods\\ExistingClassesInTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L198",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L338"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L198",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L338"
@@ -11978,12 +12458,23 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L210",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L443"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L210",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L443"
+            ]
         }
     },
     "return.unresolvableType": {
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeRule.php#L211"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L188"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/IncompatiblePhpDocTypeCheck.php#L188"
             ]
         }
     },
@@ -12029,6 +12520,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L88"
             ]
+        },
+        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L88"
+            ]
         }
     },
     "selfOut.static": {
@@ -12055,6 +12551,11 @@
             ]
         },
         "PHPStan\\Rules\\Methods\\ExistingClassesInTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L287"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionDefinitionCheck.php#L287"
             ]
@@ -12382,6 +12883,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
             ]
         },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L505"
@@ -12460,6 +12966,11 @@
             ]
         },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionCallParametersCheck.php#L261"
             ]
@@ -12622,7 +13133,7 @@
     "throws.notThrowable": {
         "PHPStan\\Rules\\PhpDoc\\InvalidThrowsPhpDocValueRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidThrowsPhpDocValueRule.php#L74"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidThrowsPhpDocValueRule.php#L80"
             ]
         }
     },
@@ -12636,6 +13147,11 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/TooWideMethodThrowTypeRule.php#L60"
             ]
+        },
+        "PHPStan\\Rules\\Exceptions\\TooWidePropertyHookThrowTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/TooWidePropertyHookThrowTypeRule.php#L67"
+            ]
         }
     },
     "throws.void": {
@@ -12647,6 +13163,11 @@
         "PHPStan\\Rules\\Exceptions\\ThrowsVoidMethodWithExplicitThrowPointRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/ThrowsVoidMethodWithExplicitThrowPointRule.php#L64"
+            ]
+        },
+        "PHPStan\\Rules\\Exceptions\\ThrowsVoidPropertyHookWithExplicitThrowPointRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Exceptions/ThrowsVoidPropertyHookWithExplicitThrowPointRule.php#L71"
             ]
         }
     },
@@ -12931,6 +13452,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyHookPhpDocTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePropertyPhpDocTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
@@ -12976,7 +13502,17 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
         },
+        "PHPStan\\Rules\\Properties\\ExistingClassesInPropertyHookTypehintsRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\PropertyAttributesRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
+            ]
+        },
+        "PHPStan\\Rules\\Properties\\PropertyHookAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L47"
             ]
