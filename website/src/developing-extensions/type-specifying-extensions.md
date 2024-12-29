@@ -93,7 +93,7 @@ public function specifyTypes(
 
 	// Assuming extension implements \PHPStan\Analyser\TypeSpecifierAwareExtension
 
-	return $this->typeSpecifier->create($expr, $type, TypeSpecifierContext::createTruthy());
+	return $this->typeSpecifier->create($expr, $type, TypeSpecifierContext::createTruthy(), $scope);
 }
 ```
 
