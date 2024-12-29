@@ -50,12 +50,12 @@ Global constants
 There are three relevant methods about global constants on `ReflectionProvider`:
 
 * `public function hasConstant(PhpParser\Node\Name $nameNode, ?PHPStan\Analyser\Scope $scope): bool`
-* `public function getConstant(PhpParser\Node\Name $nameNode, ?PHPStan\Analyser\Scope $scope): GlobalConstantReflection`
+* `public function getConstant(PhpParser\Node\Name $nameNode, ?PHPStan\Analyser\Scope $scope): ConstantReflection`
 * `public function resolveConstantName(PhpParser\Node\Name $nameNode, ?PHPStan\Analyser\Scope $scope): ?string`
 
 These methods need [Scope](/developing-extensions/scope) because when accessing global constant `FOO`, PHP first checks whether constant `CurrentNamespace\FOO` exists, and if it doesn't, it looks for constant `FOO` in the global namespace.
 
-The `getConstant` method returns [`PHPStan\Reflection\GlobalConstantReflection`](https://apiref.phpstan.org/2.1.x/PHPStan.Reflection.GlobalConstantReflection.html) which can be used to get information about the constant like the value [type](/developing-extensions/type-system) with the `getValueType(): Type` method.
+The `getConstant` method returns [`PHPStan\Reflection\ConstantReflection`](https://apiref.phpstan.org/2.1.x/PHPStan.Reflection.ConstantReflection.html) which can be used to get information about the constant like the value [type](/developing-extensions/type-system) with the `getValueType(): Type` method.
 
 Classes
 ------------------
