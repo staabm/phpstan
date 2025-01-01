@@ -110,7 +110,7 @@ Similarly to property hooks, I also have a few nice-to-have todos [left for late
 
 [This attribute](https://wiki.php.net/rfc/deprecated_attribute) allows the PHP engine [trigger deprecated warnings](https://3v4l.org/MEJTq).
 
-I suspect it's not that useful in practice because it's allowed only above functions, classes, and class constants. Most notably, it can't be used to mark entire classes deprecated. It also does not work for properties. This is something that PHP could address in the future.
+I suspect it's not that useful in practice because it's allowed only above functions, methods, and class constants. Most notably, it can't be used to mark entire classes deprecated. It also does not work for properties. This is something that PHP could address in the future.
 
 Nevertheless, you can use it in PHPStan 2.1 in tandem with [phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) to mark deprecated code and have it reported when used.
 
