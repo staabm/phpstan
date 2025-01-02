@@ -11883,7 +11883,7 @@
     "propertyGetHook.noRead": {
         "PHPStan\\Rules\\Properties\\GetNonVirtualPropertyHookReadRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/GetNonVirtualPropertyHookReadRule.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/GetNonVirtualPropertyHookReadRule.php#L102"
             ]
         }
     },
