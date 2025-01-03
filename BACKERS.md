@@ -34,6 +34,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/Edgenext2024"> (Edgenext2024)</a></li>
 <li><a href="https://github.com/route4me">Route4Me Route Planner (route4me)</a></li>
 <li><a href="https://github.com/malsatin">Sergey (malsatin)</a></li>
+<li><a href="https://github.com/belsimpel">Belsimpel.nl B.V. (belsimpel)</a></li>
 <!-- hundred-org -->
 </ul>
 
@@ -160,7 +161,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/istiak-tridip">Istiak Tridip (istiak-tridip)</a></li>
 <li><a href="https://github.com/kassner">Rafael Kassner (kassner)</a></li>
 <li><a href="https://github.com/ssddanbrown">Dan Brown (ssddanbrown)</a></li>
-<li><a href="https://github.com/teruchi">Terutomo Takahashi (teruchi)</a></li>
 <li><a href="https://github.com/zeleznypa">Pavel Železný (zeleznypa)</a></li>
 <li><a href="https://github.com/epic-64">William Raendchen (epic-64)</a></li>
 <li><a href="https://github.com/KateMorley">Kate Morley (KateMorley)</a></li>
