@@ -6,7 +6,7 @@ tags: releases
 
 This release is a culmination of the last four months of my work. Beginning in September, I branched 2.0.x off of 1.12.x. In order to support PHP 8.4 syntax, I had to upgrade to [PHP-Parser v5](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0). In order to upgrade to PHP-Parser v5, I had to release PHPStan 2.0. [Which I did on November 11th](/blog/phpstan-2-0-released-level-10-elephpants), alongside the cute and also long-awaited PHPStan elephpant. PHPStan's fans ordered 750 of those! They will be manufactured in China and sent on a ship to Europe which is going to take some time. I hope they're going to find themselves in the hands of their happy owners in May-June 2025, as promised in the order confirmation emails.
 
-Today's [PHPStan 2.1](https://github.com/phpstan/phpstan/releases/tag/2.1.0) brings full understanding of flagship PHP 8.4 features like [property hooks](https://wiki.php.net/rfc/property-hooks), [asymmetric visibility](https://wiki.php.net/rfc/asymmetric-visibility-v2), and the [`[#Deprecated]` attribute](https://wiki.php.net/rfc/deprecated_attribute). As usual I'm going to describe what considerations went into supporting these language features in PHPStan.
+Today's [PHPStan 2.1](https://github.com/phpstan/phpstan/releases/tag/2.1.0) brings full understanding of flagship PHP 8.4 features like [property hooks](https://wiki.php.net/rfc/property-hooks), [asymmetric visibility](https://wiki.php.net/rfc/asymmetric-visibility-v2), and the [`#[Deprecated]` attribute](https://wiki.php.net/rfc/deprecated_attribute). As usual I'm going to describe what considerations went into supporting these language features in PHPStan.
 
 Property hooks
 --------------------
@@ -105,7 +105,7 @@ This feature is much [easier to grasp](https://wiki.php.net/rfc/asymmetric-visib
 
 Similarly to property hooks, I also have a few nice-to-have todos [left for later](https://github.com/phpstan/phpstan/issues/12347).
 
-`#[\Deprecated]` attribute
+`#[Deprecated]` attribute
 ---------------------
 
 [This attribute](https://wiki.php.net/rfc/deprecated_attribute) allows the PHP engine [trigger deprecated warnings](https://3v4l.org/MEJTq).
