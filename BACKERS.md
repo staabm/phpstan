@@ -32,6 +32,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/matthiasCP">Matthias @campointAG (matthiasCP)</a></li>
 <li><a href="https://github.com/MacPaw">MacPaw Inc. (MacPaw)</a></li>
 <li><a href="https://github.com/Edgenext2024"> (Edgenext2024)</a></li>
+<li><a href="https://github.com/FameHelsinki">Fame Helsinki (FameHelsinki)</a></li>
 <li><a href="https://github.com/route4me">Route4Me Route Planner (route4me)</a></li>
 <li><a href="https://github.com/malsatin">Sergey (malsatin)</a></li>
 <li><a href="https://github.com/belsimpel">Belsimpel.nl B.V. (belsimpel)</a></li>
