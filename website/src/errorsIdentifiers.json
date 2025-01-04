@@ -3850,11 +3850,6 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
             ]
         },
-        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
-            "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
-            ]
-        },
         "PHPStan\\Rules\\Properties\\TypesAssignedToPropertiesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L227"
@@ -8464,8 +8459,8 @@
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodSignatureRule.php#L86",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L275",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L288"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L251",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L264"
             ]
         }
     },
@@ -8506,7 +8501,7 @@
     "method.missingOverride": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L117"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L118"
             ]
         }
     },
@@ -8554,7 +8549,7 @@
     "method.nonStatic": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L151"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L152"
             ]
         }
     },
@@ -8573,23 +8568,23 @@
     "method.override": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L95"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L96"
             ]
         }
     },
     "method.parentMethodFinal": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L128",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L68"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L129",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L69"
             ]
         }
     },
     "method.parentMethodFinalByPhpDoc": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L137",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L80"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L138",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L81"
             ]
         }
     },
@@ -8641,7 +8636,7 @@
     "method.static": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L163"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L164"
             ]
         }
     },
@@ -8687,7 +8682,7 @@
     "method.tentativeReturnType": {
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L226"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L202"
             ]
         }
     },
@@ -8823,6 +8818,12 @@
         }
     },
     "method.visibility": {
+        "PHPStan\\Rules\\Methods\\ConsistentConstructorRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodVisibilityComparisonHelper.php#L32",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodVisibilityComparisonHelper.php#L44"
+            ]
+        },
         "PHPStan\\Rules\\Methods\\MethodVisibilityInInterfaceRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodVisibilityInInterfaceRule.php#L43"
@@ -8830,8 +8831,8 @@
         },
         "PHPStan\\Rules\\Methods\\OverridingMethodRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L179",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/OverridingMethodRule.php#L191"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodVisibilityComparisonHelper.php#L32",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/MethodVisibilityComparisonHelper.php#L44"
             ]
         }
     },
@@ -10721,7 +10722,7 @@
         },
         "PHPStan\\PhpDoc\\StubValidator": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/PhpDoc/StubValidator.php#L162"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/PhpDoc/StubValidator.php#L163"
             ]
         }
     },
@@ -12285,11 +12286,6 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L69"
             ]
-        },
-        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
-            "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L69"
-            ]
         }
     },
     "return.missing": {
@@ -12324,11 +12320,6 @@
         "PHPStan\\Rules\\Missing\\MissingReturnRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Missing/MissingReturnRule.php#L117"
-            ]
-        },
-        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
-            "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L44"
             ]
         }
     },
@@ -12432,11 +12423,6 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L102",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/ReturnTypeRule.php#L114"
-            ]
-        },
-        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
-            "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L102"
             ]
         }
     },
@@ -12555,11 +12541,6 @@
             ]
         },
         "PHPStan\\Rules\\Methods\\ReturnTypeRule": {
-            "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L88"
-            ]
-        },
-        "PHPStan\\Rules\\Properties\\ShortGetPropertyHookReturnTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/FunctionReturnTypeCheck.php#L88"
             ]
