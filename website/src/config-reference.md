@@ -448,12 +448,6 @@ parameters:
 	rememberPossiblyImpureFunctionValues: false
 ```
 
-### `checkImplicitMixed`
-
-**default**: `false`
-
-When set to `true`, PHPStan is strict about values with an unspecified (implicit `mixed`) type. It enables the same checks for values with no type specified that rule level 9 enables for explicitly specified `mixed` type values.
-
 ### `checkBenevolentUnionTypes`
 
 **default**: `false`
