@@ -11,3 +11,17 @@ conditionalTags:
 services:
 	-
 		class: PHPStan\Rules\Playground\StaticVarWithoutTypeRule
+	-
+		class: PHPStan\Rules\Playground\PromoteParameterRule
+		arguments:
+			rule: @uninitializedPropertyRule
+			nodeType: PHPStan\Node\ClassPropertiesNode
+			parameterValue: %checkUninitializedProperties%
+			parameterName: checkUninitializedProperties
+		tags:
+			- phpstan.rules.rule
+		autowired: false
+
+	uninitializedPropertyRule:
+		class: PHPStan\Rules\Properties\UninitializedPropertyRule
+		autowired: false
