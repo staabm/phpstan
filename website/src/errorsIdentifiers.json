@@ -10929,6 +10929,13 @@
             ]
         }
     },
+    "phpstanPlayground.configParameter": {
+        "PHPStan\\Rules\\Playground\\PromoteParameterRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/PromoteParameterRule.php#L49"
+            ]
+        }
+    },
     "phpstanPlayground.never": {
         "PHPStan\\Rules\\Playground\\FunctionNeverRule": {
             "phpstan/phpstan-src": [
@@ -10945,6 +10952,13 @@
         "PHPStan\\Rules\\Playground\\NoPhpCodeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/NoPhpCodeRule.php#L36"
+            ]
+        }
+    },
+    "phpstanPlayground.staticWithoutType": {
+        "PHPStan\\Rules\\Playground\\StaticVarWithoutTypeRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/StaticVarWithoutTypeRule.php#L35"
             ]
         }
     },
