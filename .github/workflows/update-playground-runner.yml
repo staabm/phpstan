@@ -47,6 +47,12 @@ jobs:
         working-directory: ./playground-runner
         run: "composer install --no-interaction --no-progress"
 
+      - name: "Preflight playground.neon"
+        working-directory: ./playground-runner
+        run: |
+          touch empty.php
+          ../phpstan analyse -c playground.neon -l 8 empty.php
+
       - name: "Analyse"
         working-directory: ./playground-runner
         run: "../phpstan"
