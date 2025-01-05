@@ -10932,7 +10932,7 @@
     "phpstanPlayground.configParameter": {
         "PHPStan\\Rules\\Playground\\PromoteParameterRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/PromoteParameterRule.php#L49"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/PromoteParameterRule.php#L50"
             ]
         }
     },
