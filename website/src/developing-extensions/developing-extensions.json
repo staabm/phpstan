@@ -95,6 +95,10 @@
 			"title": "Testing",
 			"link": "/developing-extensions/testing"
 		},
+        {
+            "title": "Result Cache Meta Extensions",
+            "link": "/developing-extensions/result-cache-meta-extensions"
+        },
 		{
 			"title": "Backward Compatibility Promise",
 			"link": "/developing-extensions/backward-compatibility-promise"
