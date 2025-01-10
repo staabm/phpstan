@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4fb50f2d4af661ecee2245f9ff725125",
+    "content-hash": "4349f48e2d711e343a1bf0101d0ae855",
     "packages": [
         {
             "name": "clue/ndjson-react",
@@ -927,16 +927,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "2392d360fdf54ea253aa6c68cad1d4ba2e54e927"
+                "reference": "cd6e973e04b4c2b94c86e8612b5a65f0da0e08e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/2392d360fdf54ea253aa6c68cad1d4ba2e54e927",
-                "reference": "2392d360fdf54ea253aa6c68cad1d4ba2e54e927",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/cd6e973e04b4c2b94c86e8612b5a65f0da0e08e7",
+                "reference": "cd6e973e04b4c2b94c86e8612b5a65f0da0e08e7",
                 "shasum": ""
             },
             "require": {
@@ -981,7 +981,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-12-31T07:30:03+00:00"
+            "time": "2025-01-05T16:43:48+00:00"
         },
         {
             "name": "psr/container",
@@ -1889,12 +1889,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector-symfony.git",
-                "reference": "29a1abf5d8e8d6150dabe6e79e001a34236e9499"
+                "reference": "4661c012e9eca57e9bd4c50d9c83bcb9e6917b8a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector-symfony/zipball/29a1abf5d8e8d6150dabe6e79e001a34236e9499",
-                "reference": "29a1abf5d8e8d6150dabe6e79e001a34236e9499",
+                "url": "https://api.github.com/repos/rectorphp/rector-symfony/zipball/4661c012e9eca57e9bd4c50d9c83bcb9e6917b8a",
+                "reference": "4661c012e9eca57e9bd4c50d9c83bcb9e6917b8a",
                 "shasum": ""
             },
             "require": {
@@ -1941,7 +1941,7 @@
                 "issues": "https://github.com/rectorphp/rector-symfony/issues",
                 "source": "https://github.com/rectorphp/rector-symfony/tree/main"
             },
-            "time": "2024-12-08T17:51:24+00:00"
+            "time": "2025-01-06T12:21:26+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -3788,16 +3788,16 @@
         },
         {
             "name": "rector/swiss-knife",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/swiss-knife.git",
-                "reference": "03ddf6e4322b9801f5683bdb75911b944fce9dac"
+                "reference": "7048e0605c27d6fad6ef1f8fe96e2f36e5e1fec6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/swiss-knife/zipball/03ddf6e4322b9801f5683bdb75911b944fce9dac",
-                "reference": "03ddf6e4322b9801f5683bdb75911b944fce9dac",
+                "url": "https://api.github.com/repos/rectorphp/swiss-knife/zipball/7048e0605c27d6fad6ef1f8fe96e2f36e5e1fec6",
+                "reference": "7048e0605c27d6fad6ef1f8fe96e2f36e5e1fec6",
                 "shasum": ""
             },
             "require": {
@@ -3819,7 +3819,7 @@
             "description": "Swiss knife in pocket of every upgrade architect",
             "support": {
                 "issues": "https://github.com/rectorphp/swiss-knife/issues",
-                "source": "https://github.com/rectorphp/swiss-knife/tree/2.1.0"
+                "source": "https://github.com/rectorphp/swiss-knife/tree/2.1.1"
             },
             "funding": [
                 {
@@ -3831,7 +3831,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-03T10:30:32+00:00"
+            "time": "2025-01-07T09:27:35+00:00"
         },
         {
             "name": "rector/type-perfect",
@@ -4058,16 +4058,16 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "6.2.1",
+            "version": "6.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
-                "reference": "43d129d6a0f81c78bee378b46688293eb7ea3739"
+                "reference": "d4e47a769525c4dd38cea90e5dcd435ddbbc7115"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/43d129d6a0f81c78bee378b46688293eb7ea3739",
-                "reference": "43d129d6a0f81c78bee378b46688293eb7ea3739",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/d4e47a769525c4dd38cea90e5dcd435ddbbc7115",
+                "reference": "d4e47a769525c4dd38cea90e5dcd435ddbbc7115",
                 "shasum": ""
             },
             "require": {
@@ -4079,6 +4079,9 @@
             },
             "require-dev": {
                 "phpunit/phpunit": "^11.4"
+            },
+            "suggest": {
+                "ext-bcmath": "For comparing BcMath\\Number objects"
             },
             "type": "library",
             "extra": {
@@ -4123,7 +4126,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
                 "security": "https://github.com/sebastianbergmann/comparator/security/policy",
-                "source": "https://github.com/sebastianbergmann/comparator/tree/6.2.1"
+                "source": "https://github.com/sebastianbergmann/comparator/tree/6.3.0"
             },
             "funding": [
                 {
@@ -4131,7 +4134,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-10-31T05:30:08+00:00"
+            "time": "2025-01-06T10:28:19+00:00"
         },
         {
             "name": "sebastian/complexity",
@@ -4923,16 +4926,16 @@
         },
         {
             "name": "symplify/phpstan-extensions",
-            "version": "12.0.0",
+            "version": "12.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symplify/phpstan-extensions.git",
-                "reference": "76f65ab3c7c05c4f932174af8e630bd0bbff294e"
+                "reference": "d6a01ac2f00e7457a2b1afc7e9d1d4a7469287bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symplify/phpstan-extensions/zipball/76f65ab3c7c05c4f932174af8e630bd0bbff294e",
-                "reference": "76f65ab3c7c05c4f932174af8e630bd0bbff294e",
+                "url": "https://api.github.com/repos/symplify/phpstan-extensions/zipball/d6a01ac2f00e7457a2b1afc7e9d1d4a7469287bb",
+                "reference": "d6a01ac2f00e7457a2b1afc7e9d1d4a7469287bb",
                 "shasum": ""
             },
             "require": {
@@ -4963,7 +4966,7 @@
             ],
             "support": {
                 "issues": "https://github.com/symplify/phpstan-extensions/issues",
-                "source": "https://github.com/symplify/phpstan-extensions/tree/12.0.0"
+                "source": "https://github.com/symplify/phpstan-extensions/tree/12.0.1"
             },
             "funding": [
                 {
@@ -4975,20 +4978,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-12-12T10:30:28+00:00"
+            "time": "2025-01-07T09:31:37+00:00"
         },
         {
             "name": "symplify/phpstan-rules",
-            "version": "14.1.4",
+            "version": "14.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symplify/phpstan-rules.git",
-                "reference": "d9321e57abdc21a988bd83eeeb910d22c3eb94a9"
+                "reference": "549607d37104344abfafbfd21cd0b1d2bfbe62b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symplify/phpstan-rules/zipball/d9321e57abdc21a988bd83eeeb910d22c3eb94a9",
-                "reference": "d9321e57abdc21a988bd83eeeb910d22c3eb94a9",
+                "url": "https://api.github.com/repos/symplify/phpstan-rules/zipball/549607d37104344abfafbfd21cd0b1d2bfbe62b2",
+                "reference": "549607d37104344abfafbfd21cd0b1d2bfbe62b2",
                 "shasum": ""
             },
             "require": {
@@ -5006,6 +5009,9 @@
                 }
             },
             "autoload": {
+                "files": [
+                    "src/functions/fast-functions.php"
+                ],
                 "psr-4": {
                     "Symplify\\PHPStanRules\\": "src"
                 }
@@ -5017,7 +5023,7 @@
             "description": "Set of Symplify rules for PHPStan",
             "support": {
                 "issues": "https://github.com/symplify/phpstan-rules/issues",
-                "source": "https://github.com/symplify/phpstan-rules/tree/14.1.4"
+                "source": "https://github.com/symplify/phpstan-rules/tree/14.2.4"
             },
             "funding": [
                 {
@@ -5029,7 +5035,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-02T16:58:00+00:00"
+            "time": "2025-01-10T08:42:46+00:00"
         },
         {
             "name": "symplify/rule-doc-generator",

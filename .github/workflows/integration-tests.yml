@@ -55,9 +55,8 @@ jobs:
           - php-version: 8.2
             name: Rector tests
             script: |
-              git clone https://github.com/rectorphp/rector-src.git e2e/integration/repo
+              git clone https://github.com/rectorphp/rector-src.git -b 2.0.6 --depth 1 e2e/integration/repo
               cd e2e/integration/repo
-              git checkout a1cb33463a604a3b0e232ec423700ee1ff2cf60a
               cp ../rector-composer.lock composer.lock
               composer install
               cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
@@ -206,7 +205,7 @@ jobs:
         include:
           - php-version: 8.2
             repo: rectorphp/rector-src
-            ref: a1cb33463a604a3b0e232ec423700ee1ff2cf60a
+            ref: 2.0.6
             setup: |
               cp ../rector-composer.lock composer.lock
               composer install
