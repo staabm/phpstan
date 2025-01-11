@@ -5436,7 +5436,7 @@
     "function.alreadyNarrowedType": {
         "PHPStan\\Rules\\Comparison\\ImpossibleCheckTypeFunctionCallRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeFunctionCallRule.php#L88"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeFunctionCallRule.php#L84"
             ]
         }
     },
@@ -5463,7 +5463,7 @@
     "function.impossibleType": {
         "PHPStan\\Rules\\Comparison\\ImpossibleCheckTypeFunctionCallRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeFunctionCallRule.php#L70"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeFunctionCallRule.php#L66"
             ]
         }
     },
