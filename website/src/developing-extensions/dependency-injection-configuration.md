@@ -128,4 +128,4 @@ parametersSchema:
 	])
 ```
 
-The schema is enforced using the [`nette/schema`](https://doc.nette.org/en/3.1/schema) library. See how [PHPStan's own schema](https://github.com/phpstan/phpstan-src/blob/0ebfea013b4d625bc0bc31642679e85f78b456ca/conf/config.neon#L181-L354) is defined to get an idea how to define yours.
+The schema is enforced using the [`nette/schema`](https://doc.nette.org/en/3.1/schema) library. See how [PHPStan's own schema](https://github.com/phpstan/phpstan-src/blob/2.1.x/conf/parametersSchema.neon) is defined to get an idea how to define yours.
