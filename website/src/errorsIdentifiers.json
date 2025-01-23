@@ -10980,7 +10980,7 @@
     "phpunit.assertEquals": {
         "PHPStan\\Rules\\PHPUnit\\AssertEqualsIsDiscouragedRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertEqualsIsDiscouragedRule.php#L61"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertEqualsIsDiscouragedRule.php#L66"
             ]
         }
     },
