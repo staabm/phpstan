@@ -126,6 +126,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/byWulf">Michael Wolf (byWulf)</a></li>
 <li><a href="https://github.com/DrewAPicture">Drew Jaynes (DrewAPicture)</a></li>
 <li><a href="https://github.com/amsoell">Andy Soell (amsoell)</a></li>
+<li><a href="https://github.com/martattacks">Martin H. (martattacks)</a></li>
 <!-- five -->
 
 <!-- five-org --><li><a href="https://github.com/hxv">Michał Włodarczyk (hxv)</a></li>
@@ -151,7 +152,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/tenkoma">Koji Tanaka (tenkoma)</a></li>
 <li><a href="https://github.com/stafftastic">stafftastic GmbH (stafftastic)</a></li>
 <li><a href="https://github.com/AllenJB">AllenJB (AllenJB)</a></li>
-<li><a href="https://github.com/madbob">Roberto Guido (madbob)</a></li>
 <li><a href="https://github.com/stopfstedt">Stefan Topfstedt (stopfstedt)</a></li>
 <li><a href="https://github.com/kingkero">Martin Rehberger (kingkero)</a></li>
 <li><a href="https://github.com/previousnext">PreviousNext (previousnext)</a></li>
