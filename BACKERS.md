@@ -35,7 +35,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/route4me">Route4Me Route Planner (route4me)</a></li>
 <li><a href="https://github.com/malsatin">Sergey (malsatin)</a></li>
 <li><a href="https://github.com/belsimpel">Belsimpel.nl B.V. (belsimpel)</a></li>
-<li><a href="https://github.com/jrfnl">Juliette (jrfnl)</a></li>
 <!-- hundred-org -->
 </ul>
 
