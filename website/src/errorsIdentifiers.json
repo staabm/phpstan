@@ -11534,14 +11534,21 @@
     "property.hookBodyInInterface": {
         "PHPStan\\Rules\\Properties\\PropertiesInInterfaceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertiesInInterfaceRule.php#L64"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertiesInInterfaceRule.php#L73"
+            ]
+        }
+    },
+    "property.hookReadOnly": {
+        "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L89"
             ]
         }
     },
     "property.hookWithoutBody": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L83"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L79"
             ]
         }
     },
@@ -11775,6 +11782,13 @@
         "PHPStan\\Rules\\Properties\\ReadOnlyPropertyRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyRule.php#L49"
+            ]
+        }
+    },
+    "property.readOnlyInInterface": {
+        "PHPStan\\Rules\\Properties\\PropertiesInInterfaceRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertiesInInterfaceRule.php#L64"
             ]
         }
     },
