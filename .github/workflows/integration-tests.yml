@@ -80,7 +80,7 @@ jobs:
             script: |
               git clone https://github.com/larastan/larastan.git e2e/integration/repo
               cd e2e/integration/repo
-              git checkout ae431fad4c2f6f8a34e7e297e19b9575a728ad85
+              git checkout b394eba5805727423071fac9b53ea50dd7e920f4
               cp ../larastan-composer.lock composer.lock
               composer install
               cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
@@ -301,7 +301,7 @@ jobs:
 #            baseline-file: symplify-baseline.neon
           - php-version: 8.3
             repo: larastan/larastan
-            ref: ae431fad4c2f6f8a34e7e297e19b9575a728ad85
+            ref: b394eba5805727423071fac9b53ea50dd7e920f4
             setup: |
               cp ../larastan-composer.lock composer.lock
               composer install
