@@ -55,7 +55,7 @@ jobs:
           - php-version: 8.2
             name: Rector tests
             script: |
-              git clone https://github.com/rectorphp/rector-src.git -b 2.0.7 --depth 1 e2e/integration/repo
+              git clone https://github.com/rectorphp/rector-src.git -b 2.0.8 --depth 1 e2e/integration/repo
               cd e2e/integration/repo
               cp ../rector-composer.lock composer.lock
               composer install
@@ -205,7 +205,7 @@ jobs:
         include:
           - php-version: 8.2
             repo: rectorphp/rector-src
-            ref: 2.0.7
+            ref: 2.0.8
             setup: |
               cp ../rector-composer.lock composer.lock
               composer install

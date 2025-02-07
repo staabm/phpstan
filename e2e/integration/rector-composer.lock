@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "710f84b2f2fc7ba537bd030f7a992efa",
+    "content-hash": "3327108c61eea19d09115fa0e353e8ec",
     "packages": [
         {
             "name": "clue/ndjson-react",
@@ -497,16 +497,16 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v11.39.1",
+            "version": "v11.41.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
-                "reference": "4a777578ce2388384565bf5c8e76881f0da68e54"
+                "reference": "1caf7d6cf42078fa8d30f26f1e43943ed6b01dae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/container/zipball/4a777578ce2388384565bf5c8e76881f0da68e54",
-                "reference": "4a777578ce2388384565bf5c8e76881f0da68e54",
+                "url": "https://api.github.com/repos/illuminate/container/zipball/1caf7d6cf42078fa8d30f26f1e43943ed6b01dae",
+                "reference": "1caf7d6cf42078fa8d30f26f1e43943ed6b01dae",
                 "shasum": ""
             },
             "require": {
@@ -544,11 +544,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2024-12-08T15:40:56+00:00"
+            "time": "2025-01-28T20:44:34+00:00"
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.39.1",
+            "version": "v11.41.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -740,32 +740,33 @@
         },
         {
             "name": "ocramius/package-versions",
-            "version": "2.9.0",
+            "version": "2.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ocramius/PackageVersions.git",
-                "reference": "b3397b9b4578989929d3bc2602c26fe19f035095"
+                "reference": "b2181b8f0e2adeef0db76a209e1a69369d8abe6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ocramius/PackageVersions/zipball/b3397b9b4578989929d3bc2602c26fe19f035095",
-                "reference": "b3397b9b4578989929d3bc2602c26fe19f035095",
+                "url": "https://api.github.com/repos/Ocramius/PackageVersions/zipball/b2181b8f0e2adeef0db76a209e1a69369d8abe6f",
+                "reference": "b2181b8f0e2adeef0db76a209e1a69369d8abe6f",
                 "shasum": ""
             },
             "require": {
                 "composer-runtime-api": "^2.2.0",
-                "php": "~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0"
+                "php": "~8.2.0 || ~8.3.0 || ~8.4.0"
             },
             "replace": {
                 "composer/package-versions-deprecated": "*"
             },
             "require-dev": {
-                "composer/composer": "^2.7.7",
+                "composer/composer": "^2.8.5",
                 "doctrine/coding-standard": "^12.0.0",
                 "ext-zip": "^1.15.0",
-                "phpunit/phpunit": "^9.6.20",
-                "roave/infection-static-analysis-plugin": "^1.35.0",
-                "vimeo/psalm": "^5.25.0"
+                "phpunit/phpunit": "^11.5.6",
+                "psalm/plugin-phpunit": "^0.19.2",
+                "roave/infection-static-analysis-plugin": "^1.36.0",
+                "vimeo/psalm": "^6.3.0"
             },
             "type": "library",
             "autoload": {
@@ -786,7 +787,7 @@
             "description": "Provides efficient querying for installed package versions (no runtime IO)",
             "support": {
                 "issues": "https://github.com/Ocramius/PackageVersions/issues",
-                "source": "https://github.com/Ocramius/PackageVersions/tree/2.9.0"
+                "source": "https://github.com/Ocramius/PackageVersions/tree/2.10.0"
             },
             "funding": [
                 {
@@ -798,7 +799,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-08-04T10:04:51+00:00"
+            "time": "2025-02-05T12:31:16+00:00"
         },
         {
             "name": "ondram/ci-detector",
@@ -1777,12 +1778,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector-downgrade-php.git",
-                "reference": "2e0cde63aa8ab39ea02c52ae926365d12ff3c762"
+                "reference": "6dba10960d71bdd442b5ebe54dbbf2c4a72b263d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector-downgrade-php/zipball/2e0cde63aa8ab39ea02c52ae926365d12ff3c762",
-                "reference": "2e0cde63aa8ab39ea02c52ae926365d12ff3c762",
+                "url": "https://api.github.com/repos/rectorphp/rector-downgrade-php/zipball/6dba10960d71bdd442b5ebe54dbbf2c4a72b263d",
+                "reference": "6dba10960d71bdd442b5ebe54dbbf2c4a72b263d",
                 "shasum": ""
             },
             "require": {
@@ -1822,7 +1823,7 @@
                 "issues": "https://github.com/rectorphp/rector-downgrade-php/issues",
                 "source": "https://github.com/rectorphp/rector-downgrade-php/tree/main"
             },
-            "time": "2025-01-16T18:45:45+00:00"
+            "time": "2025-01-27T16:10:20+00:00"
         },
         {
             "name": "rector/rector-phpunit",
@@ -1830,12 +1831,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector-phpunit.git",
-                "reference": "57a5555c9fbe8740e1a6d8def5e10fd32e252dd9"
+                "reference": "03e2418e0107b33496c0f7bb99520ac8606a3d7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector-phpunit/zipball/57a5555c9fbe8740e1a6d8def5e10fd32e252dd9",
-                "reference": "57a5555c9fbe8740e1a6d8def5e10fd32e252dd9",
+                "url": "https://api.github.com/repos/rectorphp/rector-phpunit/zipball/03e2418e0107b33496c0f7bb99520ac8606a3d7a",
+                "reference": "03e2418e0107b33496c0f7bb99520ac8606a3d7a",
                 "shasum": ""
             },
             "require": {
@@ -1881,7 +1882,7 @@
                 "issues": "https://github.com/rectorphp/rector-phpunit/issues",
                 "source": "https://github.com/rectorphp/rector-phpunit/tree/main"
             },
-            "time": "2025-01-22T12:35:28+00:00"
+            "time": "2025-02-02T01:09:12+00:00"
         },
         {
             "name": "rector/rector-symfony",
@@ -2527,16 +2528,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v7.2.0",
+            "version": "v7.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "099581e99f557e9f16b43c5916c26380b54abb22"
+                "reference": "ac238f173df0c9c1120f862d0f599e17535a87ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/099581e99f557e9f16b43c5916c26380b54abb22",
-                "reference": "099581e99f557e9f16b43c5916c26380b54abb22",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/ac238f173df0c9c1120f862d0f599e17535a87ec",
+                "reference": "ac238f173df0c9c1120f862d0f599e17535a87ec",
                 "shasum": ""
             },
             "require": {
@@ -2579,7 +2580,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v7.2.0"
+                "source": "https://github.com/symfony/yaml/tree/v7.2.3"
             },
             "funding": [
                 {
@@ -2595,7 +2596,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-10-23T06:56:12+00:00"
+            "time": "2025-01-07T12:55:42+00:00"
         },
         {
             "name": "symplify/easy-parallel",
@@ -3636,16 +3637,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "11.5.3",
+            "version": "11.5.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "30e319e578a7b5da3543073e30002bf82042f701"
+                "reference": "e1cb706f019e2547039ca2c839898cd5f557ee5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/30e319e578a7b5da3543073e30002bf82042f701",
-                "reference": "30e319e578a7b5da3543073e30002bf82042f701",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/e1cb706f019e2547039ca2c839898cd5f557ee5d",
+                "reference": "e1cb706f019e2547039ca2c839898cd5f557ee5d",
                 "shasum": ""
             },
             "require": {
@@ -3717,7 +3718,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.5.3"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.5.7"
             },
             "funding": [
                 {
@@ -3733,7 +3734,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-01-13T09:36:00+00:00"
+            "time": "2025-02-06T16:10:05+00:00"
         },
         {
             "name": "rector/release-notes-generator",
@@ -3788,16 +3789,16 @@
         },
         {
             "name": "rector/swiss-knife",
-            "version": "2.1.6",
+            "version": "2.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/swiss-knife.git",
-                "reference": "9c243c37a4ec4b5de3db425000868aa55c841e6f"
+                "reference": "a5fb76b700469467458b4063c62bb31622dd9a7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/swiss-knife/zipball/9c243c37a4ec4b5de3db425000868aa55c841e6f",
-                "reference": "9c243c37a4ec4b5de3db425000868aa55c841e6f",
+                "url": "https://api.github.com/repos/rectorphp/swiss-knife/zipball/a5fb76b700469467458b4063c62bb31622dd9a7b",
+                "reference": "a5fb76b700469467458b4063c62bb31622dd9a7b",
                 "shasum": ""
             },
             "require": {
@@ -3819,7 +3820,7 @@
             "description": "Swiss knife in pocket of every upgrade architect",
             "support": {
                 "issues": "https://github.com/rectorphp/swiss-knife/issues",
-                "source": "https://github.com/rectorphp/swiss-knife/tree/2.1.6"
+                "source": "https://github.com/rectorphp/swiss-knife/tree/2.1.9"
             },
             "funding": [
                 {
@@ -3831,7 +3832,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-19T12:40:26+00:00"
+            "time": "2025-02-05T18:41:31+00:00"
         },
         {
             "name": "rector/type-perfect",
@@ -4865,16 +4866,16 @@
         },
         {
             "name": "symplify/easy-coding-standard",
-            "version": "12.5.5",
+            "version": "12.5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/easy-coding-standard/easy-coding-standard.git",
-                "reference": "16a6ac7f452e230fdcc81f1b35b2366903fcecf3"
+                "reference": "2bf0e468dc9679f3835c835cd3fd4a25ff6e4e14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/easy-coding-standard/easy-coding-standard/zipball/16a6ac7f452e230fdcc81f1b35b2366903fcecf3",
-                "reference": "16a6ac7f452e230fdcc81f1b35b2366903fcecf3",
+                "url": "https://api.github.com/repos/easy-coding-standard/easy-coding-standard/zipball/2bf0e468dc9679f3835c835cd3fd4a25ff6e4e14",
+                "reference": "2bf0e468dc9679f3835c835cd3fd4a25ff6e4e14",
                 "shasum": ""
             },
             "require": {
@@ -4910,7 +4911,7 @@
             ],
             "support": {
                 "issues": "https://github.com/easy-coding-standard/easy-coding-standard/issues",
-                "source": "https://github.com/easy-coding-standard/easy-coding-standard/tree/12.5.5"
+                "source": "https://github.com/easy-coding-standard/easy-coding-standard/tree/12.5.8"
             },
             "funding": [
                 {
@@ -4922,7 +4923,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-02T08:43:03+00:00"
+            "time": "2025-01-31T13:59:38+00:00"
         },
         {
             "name": "symplify/phpstan-extensions",
@@ -4982,16 +4983,16 @@
         },
         {
             "name": "symplify/phpstan-rules",
-            "version": "14.2.5",
+            "version": "14.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symplify/phpstan-rules.git",
-                "reference": "619dbf6994efce19d8671d060c8cbb575d31dfb8"
+                "reference": "c3ecd80987b75a2c01f9e11ebbf954b7cff5b24b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symplify/phpstan-rules/zipball/619dbf6994efce19d8671d060c8cbb575d31dfb8",
-                "reference": "619dbf6994efce19d8671d060c8cbb575d31dfb8",
+                "url": "https://api.github.com/repos/symplify/phpstan-rules/zipball/c3ecd80987b75a2c01f9e11ebbf954b7cff5b24b",
+                "reference": "c3ecd80987b75a2c01f9e11ebbf954b7cff5b24b",
                 "shasum": ""
             },
             "require": {
@@ -5023,7 +5024,7 @@
             "description": "Set of Symplify rules for PHPStan",
             "support": {
                 "issues": "https://github.com/symplify/phpstan-rules/issues",
-                "source": "https://github.com/symplify/phpstan-rules/tree/14.2.5"
+                "source": "https://github.com/symplify/phpstan-rules/tree/14.2.7"
             },
             "funding": [
                 {
@@ -5035,7 +5036,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-13T09:27:41+00:00"
+            "time": "2025-01-31T11:24:35+00:00"
         },
         {
             "name": "symplify/vendor-patches",
