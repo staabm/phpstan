@@ -44,6 +44,46 @@ $parameters = $variant->getParameters();
 $returnType = $variant->getReturnType();
 ```
 
+<div class="bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4 mb-4" role="alert">
+
+If you are writing a [custom rule](/developing-extensions/rules), working with multi-variant built-in functions, like [`strtok`](https://www.php.net/manual/en/function.strtok.php), and you need proper resolution of named parameters, be sure to pass the optional fourth parameter to `selectFromArgs()` like this:
+
+```php
+$variant = PHPStan\Reflection\ParametersAcceptorSelector::selectFromArgs(
+	$scope,
+	$funcCall->getArgs(),
+	$functionReflection->getVariants(),
+	$functionReflection->getNamedArgumentsVariants(),
+);
+
+<details>
+    <summary class="font-bold">Show example</summary>
+
+Function call to analyze:
+```php
+strtok(string: 'This is\tan example\nstring', token: " \n\t");
+```
+
+Get parameter names like this:
+```php
+$parameters = $variant->getParameters();
+$parameterNames = array_map(fn ($parameter) => $parameter->getName(), $parameters);
+```
+
+Without the optional fourth parameter, the resolved `$parameterNames` will be incorrect:
+```php
+$parameterNames = ['str', 'token'];
+```
+
+With the optional fourth parameter, the resolved `$parameterNames` will be correct:
+```php
+$parameterNames = ['string', 'token'];
+```
+
+</details>
+
+</div>
+
 Global constants
 ------------------
 
@@ -115,6 +155,46 @@ $variant = PHPStan\Reflection\ParametersAcceptorSelector::selectFromArgs(
 $parameters = $variant->getParameters();
 $returnType = $variant->getReturnType();
 ```
+
+<div class="bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4 mb-4" role="alert">
+
+If you are writing a [custom rule](/developing-extensions/rules), working with multi-variant built-in functions, like [`PDO::query()`](https://www.php.net/manual/en/pdo.query.php), and you need proper resolution of named parameters, be sure to pass the optional fourth parameter to `selectFromArgs()` like this:
+
+```php
+$variant = PHPStan\Reflection\ParametersAcceptorSelector::selectFromArgs(
+	$scope,
+	$methodCall->getArgs(),
+	$methodReflection->getVariants(),
+	$methodReflection->getNamedArgumentsVariants(),
+);
+
+<details>
+    <summary class="font-bold">Show example</summary>
+
+Function call to analyze:
+```php
+$pdo->query(query: 'SELECT * FROM users', fetchMode: PDO::FETCH_ASSOC);
+```
+
+Get parameter names like this:
+```php
+$parameters = $variant->getParameters();
+$parameterNames = array_map(fn ($parameter) => $parameter->getName(), $parameters);
+```
+
+Without the optional fourth parameter, the resolved `$parameterNames` will be incorrect:
+```php
+$parameterNames = ['query', 'fetchMode', 'fetchModeArgs', 'ctorargs'];
+```
+
+With the optional fourth parameter, the resolved `$parameterNames` will be correct:
+```php
+$parameterNames = ['query', 'fetchMode'];
+```
+
+</details>
+
+</div>
 
 Class constants
 ------------------
