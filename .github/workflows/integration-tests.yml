@@ -211,14 +211,14 @@ jobs:
               composer install
             phpstan-command: ../../../phpstan.phar analyse -c ../rector.neon
             baseline-file: rector-baseline.neon
-#          - php-version: 8.3
-#            repo: sebastianbergmann/phpunit
-#            ref: 7af36fe694222657332a5f932f29dae99964cedc
-#            setup: |
-#              export COMPOSER_ROOT_VERSION=11.3.0
-#              composer install
-#            phpstan-command: ../../../phpstan.phar analyse -c ../phpunit.neon
-#            baseline-file: phpunit-baseline.neon
+          - php-version: 8.4
+            repo: sebastianbergmann/phpunit
+            ref: 126f4080d457e133b5e6c22c4838d1af1e1f5664
+            setup: |
+              export COMPOSER_ROOT_VERSION=12.1.0
+              composer install
+            phpstan-command: ../../../phpstan.phar analyse -c ../phpunit.neon
+            baseline-file: phpunit-baseline.neon
 #          - php-version: 8.0
 #            repo: pmmp/PocketMine-MP
 #            ref: e0b07ff3087b652407439a29c941f3b66ca92c86
