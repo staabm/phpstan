@@ -131,16 +131,16 @@ jobs:
 #              cp ../../../phpstan vendor/phpstan/phpstan/phpstan
 #              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
 #              vendor/bin/phpunit
-#          - php-version: 8.1
-#            name: Bladestan tests
-#            script: |
-#              git clone https://github.com/TomasVotruba/bladestan.git -b 0.5.0 --depth 1 e2e/integration/repo
-#              cd e2e/integration/repo
-#              composer install
-#              cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
-#              cp ../../../phpstan vendor/phpstan/phpstan/phpstan
-#              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
-#              vendor/bin/phpunit
+          - php-version: 8.2
+            name: Bladestan tests
+            script: |
+              git clone https://github.com/bladestan/bladestan.git -b 0.10.0 --depth 1 e2e/integration/repo
+              cd e2e/integration/repo
+              composer install
+              cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
+              cp ../../../phpstan vendor/phpstan/phpstan/phpstan
+              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
+              vendor/bin/phpunit
 #          - php-version: 7.2
 #            name: Rector with polyfills
 #            script: |
@@ -457,16 +457,16 @@ jobs:
 #              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
 #            phpstan-command: ../../../phpstan.phar analyze src --level=max -c ../efabrica-phpstan-latte.neon
 #            baseline-file: efabrica-phpstan-latte-baseline.neon
-#          - php-version: 8.1
-#            repo: TomasVotruba/bladestan
-#            ref: 0.5.0
-#            setup: |
-#              composer install
-#              cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
-#              cp ../../../phpstan vendor/phpstan/phpstan/phpstan
-#              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
-#            phpstan-command: ../../../phpstan.phar analyse
-#            baseline-file: bladestan-baseline.neon
+          - php-version: 8.2
+            repo: bladestan/bladestan
+            ref: 0.10.0
+            setup: |
+              composer install
+              cp ../../../phpstan.phar vendor/phpstan/phpstan/phpstan.phar
+              cp ../../../phpstan vendor/phpstan/phpstan/phpstan
+              cp ../../../bootstrap.php vendor/phpstan/phpstan/bootstrap.php
+            phpstan-command: ../../../phpstan.phar analyse
+            baseline-file: bladestan-baseline.neon
 #          - php-version: 8.2
 #            repo: reactphp/promise
 #            ref: 7053e3ca49a9a8225f081c8f67f785f80cb4d82e
