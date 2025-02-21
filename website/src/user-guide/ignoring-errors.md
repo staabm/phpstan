@@ -269,9 +269,9 @@ parameters:
             - src/broken
 ```
 
-Ignoning errors with an IgnoreErrorExtension
+Ignoring errors with an IgnoreErrorExtension
 ------------------
 
-For more complex situations, you could create an IgnoreErrorExtension that can ignore errors programatically based on the Error, Node and Scope.
+For more complex situations, you could create an IgnoreErrorExtension that can ignore errors programmatically based on the Error, Node and Scope.
 
 [Learn more »](/developing-extensions/ignore-error-extensions)
