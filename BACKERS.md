@@ -44,7 +44,6 @@ the logo of your company in PHPStan's README and the website.
 <ul>
 <!-- thirty --><li><a href="https://github.com/martin-georgiev">Martin Georgiev (martin-georgiev)</a></li>
 <li><a href="https://github.com/glami">GLAMI (glami)</a></li>
-<li><a href="https://github.com/Lamicz">Michal (Lamicz)</a></li>
 <!-- thirty -->
 
 <!-- thirty-org --><li><a href="https://github.com/polylang">Polylang (polylang)</a></li>
@@ -92,7 +91,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/brotkrueml">Chris Müller (brotkrueml)</a></li>
 <li><a href="https://github.com/joelclermont">Joel Clermont (joelclermont)</a></li>
 <li><a href="https://github.com/spaze">Michal Špaček (spaze)</a></li>
-<li><a href="https://github.com/DavidBadura">David Badura (DavidBadura)</a></li>
 <li><a href="https://github.com/kento-oka">Kento Oka (kento-oka)</a></li>
 <li><a href="https://github.com/tpetry">Tobias Petry (tpetry)</a></li>
 <li><a href="https://github.com/SimoTod">Simone Todaro (SimoTod)</a></li>
@@ -125,7 +123,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/byWulf">Michael Wolf (byWulf)</a></li>
 <li><a href="https://github.com/DrewAPicture">Drew Jaynes (DrewAPicture)</a></li>
 <li><a href="https://github.com/amsoell">Andy Soell (amsoell)</a></li>
-<li><a href="https://github.com/martattacks">Martin H. (martattacks)</a></li>
 <!-- five -->
 
 <!-- five-org --><li><a href="https://github.com/hxv">Michał Włodarczyk (hxv)</a></li>
