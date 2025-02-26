@@ -4286,6 +4286,13 @@
             ]
         }
     },
+    "classConstant.finalPrivate": {
+        "PHPStan\\Rules\\Constants\\FinalPrivateConstantRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Constants/FinalPrivateConstantRule.php#L43"
+            ]
+        }
+    },
     "classConstant.inTrait": {
         "PHPStan\\Rules\\Traits\\ConstantsInTraitsRule": {
             "phpstan/phpstan-src": [
@@ -11484,8 +11491,8 @@
     "property.abstractFinal": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L125",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L142"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L134",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L151"
             ]
         }
     },
@@ -11507,6 +11514,13 @@
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L65"
+            ]
+        }
+    },
+    "property.abstractPrivate": {
+        "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L101"
             ]
         }
     },
@@ -11577,14 +11591,14 @@
     "property.finalPrivate": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L101"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L110"
             ]
         }
     },
     "property.finalPrivateHook": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L114"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L123"
             ]
         }
     },
@@ -11598,7 +11612,7 @@
     "property.hookReadOnly": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L153"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L162"
             ]
         }
     },
@@ -11617,7 +11631,7 @@
         },
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L164"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L173"
             ]
         }
     },
@@ -11984,7 +11998,7 @@
     "property.virtualDefault": {
         "PHPStan\\Rules\\Properties\\PropertyInClassRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L175"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/PropertyInClassRule.php#L184"
             ]
         }
     },
