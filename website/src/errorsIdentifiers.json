@@ -13890,31 +13890,45 @@
             ]
         }
     },
+    "unset.hookedProperty": {
+        "PHPStan\\Rules\\Variables\\UnsetRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L118"
+            ]
+        }
+    },
     "unset.offset": {
         "PHPStan\\Rules\\Variables\\UnsetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L74"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L76"
+            ]
+        }
+    },
+    "unset.possiblyHookedProperty": {
+        "PHPStan\\Rules\\Variables\\UnsetRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L134"
             ]
         }
     },
     "unset.readOnlyProperty": {
         "PHPStan\\Rules\\Variables\\UnsetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L103"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L105"
             ]
         }
     },
     "unset.readOnlyPropertyByPhpDoc": {
         "PHPStan\\Rules\\Variables\\UnsetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L103"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L105"
             ]
         }
     },
     "unset.variable": {
         "PHPStan\\Rules\\Variables\\UnsetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L58"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Variables/UnsetRule.php#L60"
             ]
         }
     },
