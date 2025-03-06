@@ -10934,12 +10934,12 @@
     "phpstanApi.varTagAssumption": {
         "PHPStan\\Rules\\PhpDoc\\VarTagChangedExpressionTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L118"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L120"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\WrongVariableNameInVarTagRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L118"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L120"
             ]
         }
     },
@@ -13966,12 +13966,12 @@
     "varTag.nativeType": {
         "PHPStan\\Rules\\PhpDoc\\VarTagChangedExpressionTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L94"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L96"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\WrongVariableNameInVarTagRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L94"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L96"
             ]
         }
     },
@@ -13996,12 +13996,12 @@
     "varTag.type": {
         "PHPStan\\Rules\\PhpDoc\\VarTagChangedExpressionTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L106"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L108"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\WrongVariableNameInVarTagRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L106"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/VarTagTypeRuleHelper.php#L108"
             ]
         }
     },
