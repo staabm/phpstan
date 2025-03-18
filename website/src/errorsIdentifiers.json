@@ -4683,6 +4683,13 @@
             ]
         }
     },
+    "doWhile.condNotBoolean": {
+        "PHPStan\\Rules\\BooleansInConditions\\BooleanInDoWhileConditionRule": {
+            "phpstan/phpstan-strict-rules": [
+                "https://github.com/phpstan/phpstan-strict-rules/blob/2.0.x/src/Rules/BooleansInConditions/BooleanInDoWhileConditionRule.php#L42"
+            ]
+        }
+    },
     "doctrine.associationType": {
         "PHPStan\\Rules\\Doctrine\\ORM\\EntityRelationRule": {
             "phpstan/phpstan-doctrine": [
@@ -11834,22 +11841,22 @@
     "property.readOnlyAssignNotInConstructor": {
         "PHPStan\\Rules\\Properties\\ReadOnlyPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L93"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L105"
             ]
         }
     },
     "property.readOnlyAssignNotOnThis": {
         "PHPStan\\Rules\\Properties\\ReadOnlyPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L85"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L89"
             ]
         }
     },
     "property.readOnlyAssignOutOfClass": {
         "PHPStan\\Rules\\Properties\\ReadOnlyPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L61",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L69"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L65",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyPropertyAssignRule.php#L73"
             ]
         }
     },
@@ -11863,22 +11870,22 @@
     "property.readOnlyByPhpDocAssignNotInConstructor": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L110"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L122"
             ]
         }
     },
     "property.readOnlyByPhpDocAssignNotOnThis": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L98"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L102"
             ]
         }
     },
     "property.readOnlyByPhpDocAssignOutOfClass": {
         "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyAssignRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L74",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L82"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L78",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Properties/ReadOnlyByPhpDocPropertyAssignRule.php#L86"
             ]
         }
     },
@@ -14098,6 +14105,13 @@
         "PHPStan\\Rules\\Comparison\\WhileLoopAlwaysTrueConditionRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/WhileLoopAlwaysTrueConditionRule.php#L83"
+            ]
+        }
+    },
+    "while.condNotBoolean": {
+        "PHPStan\\Rules\\BooleansInConditions\\BooleanInWhileConditionRule": {
+            "phpstan/phpstan-strict-rules": [
+                "https://github.com/phpstan/phpstan-strict-rules/blob/2.0.x/src/Rules/BooleansInConditions/BooleanInWhileConditionRule.php#L42"
             ]
         }
     },
