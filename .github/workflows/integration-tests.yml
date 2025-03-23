@@ -175,7 +175,6 @@ jobs:
           coverage: "none"
           php-version: "${{ matrix.php-version }}"
           ini-file: development
-          ini-values: opcache.enable_cli=1, opcache.jit=tracing, opcache.jit_buffer_size=64M
 
       - name: "Install dependencies"
         run: "composer update --no-interaction --no-progress"
@@ -505,7 +504,6 @@ jobs:
           coverage: "none"
           php-version: "${{ matrix.php-version }}"
           ini-file: development
-          ini-values: opcache.enable_cli=1, opcache.jit=tracing, opcache.jit_buffer_size=64M
 
       - name: "Install dependencies"
         run: "composer update --no-interaction --no-progress"
