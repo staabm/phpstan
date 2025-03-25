@@ -11148,8 +11148,7 @@
     "phpunit.mockMethod": {
         "PHPStan\\Rules\\PHPUnit\\MockMethodCallRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/MockMethodCallRule.php#L66",
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/MockMethodCallRule.php#L84"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/MockMethodCallRule.php#L99"
             ]
         }
     },
