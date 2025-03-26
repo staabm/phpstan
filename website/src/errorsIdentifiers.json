@@ -10714,6 +10714,13 @@
             ]
         }
     },
+    "phpstan.classNotFound": {
+        "PHPStan\\Testing\\NonexistentAnalysedClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Testing/NonexistentAnalysedClassRule.php#L41"
+            ]
+        }
+    },
     "phpstan.debugScope": {
         "PHPStan\\Rules\\Debug\\DebugScopeRule": {
             "phpstan/phpstan-src": [
@@ -10805,6 +10812,13 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/FileAnalyser.php#L189",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/FileAnalyser.php#L257",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/FileAnalyser.php#L264"
+            ]
+        }
+    },
+    "phpstan.traitNotFound": {
+        "PHPStan\\Testing\\NonexistentAnalysedTraitRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Testing/NonexistentAnalysedTraitRule.php#L43"
             ]
         }
     },
