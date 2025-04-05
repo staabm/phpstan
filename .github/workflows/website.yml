@@ -4,6 +4,10 @@ name: "Website Build"
 
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/website.yml'
+      - 'website/**'
   push:
     branches:
       - "2.1.x"
@@ -79,6 +83,7 @@ jobs:
     needs:
       - typescript-check
       - build
+    if: "github.ref == 'refs/heads/2.1.x'"
     runs-on: "ubuntu-latest"
     concurrency: website
     steps:
