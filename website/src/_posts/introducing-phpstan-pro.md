@@ -87,6 +87,10 @@ If you're a team of developers, PHPStan Pro costs **€70/month**, and as many a
 
 If you decide to pay annually, you'll get PHPStan Pro for 12&nbsp;months for the price of 10&nbsp;months – that's **€70/year** for individual developers, **€700/year** for teams.
 
+Please note these price exclude applicable 21 % VAT. [^vat]
+
+[^vat]: VAT is added on top of the price to all individuals and businesses from the Czech Republic. It also applies to individuals from the EU that are not VAT-registered. Businesses from the EU providing their VAT ID will not be charged VAT by PHPStan Pro, but the invoice will be issued in reverse charge mode and you will be obligated to fill in the VAT amounts and pay the tax. The [billing portal](https://account.phpstan.com/) tells you the same information during sign up.
+
 There's a 30-day free trial period for all the plans. And there's no limit on the number of projects - you can run PHPStan Pro on any code you have on your computer.
 
 Start today!
