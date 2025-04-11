@@ -790,6 +790,15 @@ This example assumes you've set an environment variable called `PHPSTAN_TMP_DIR`
 export PHPSTAN_TMP_DIR=/home/ondrej/phpstan-temp
 ```
 
+Special functions like `bool()`, `int()`, `float()`, and `string()` can be used in .neon files for lossless type casting:
+
+```yaml
+parameters:
+    parallel:
+        maximumNumberOfProcesses: int(%env.PHPSTAN_CPU%)
+
+```
+
 Expanding paths
 -------------
 
