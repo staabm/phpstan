@@ -93,7 +93,8 @@ Discovering symbols
 Learn more about discovering symbols in the [user guide](/user-guide/discovering-symbols).
 
 Related config keys: [`scanFiles`](/user-guide/discovering-symbols#third-party-code-outside-of-composer-dependencies),
-[`scanDirectories`](/user-guide/discovering-symbols#third-party-code-outside-of-composer-dependencies).
+[`scanDirectories`](/user-guide/discovering-symbols#third-party-code-outside-of-composer-dependencies),
+[`tips.discoveringSymbols`](/user-guide/discovering-symbols#disable-the-symbol-discovery-error-tip).
 
 Bootstrap
 ------------------
