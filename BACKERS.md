@@ -29,7 +29,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/crispnl">crispnl (crispnl)</a></li>
 <li><a href="https://github.com/inviqa">Inviqa (inviqa)</a></li>
 <li><a href="https://github.com/hephaist-io">Hephaist.io (hephaist-io)</a></li>
-<li><a href="https://github.com/MacPaw">MacPaw Inc. (MacPaw)</a></li>
 <li><a href="https://github.com/Edgenext2024"> (Edgenext2024)</a></li>
 <li><a href="https://github.com/FameHelsinki">Fame Helsinki (FameHelsinki)</a></li>
 <li><a href="https://github.com/route4me">Route4Me Route Planner (route4me)</a></li>
@@ -107,7 +106,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/muno92"> (muno92)</a></li>
 <li><a href="https://github.com/underwood">Scott Underwood (underwood)</a></li>
 <li><a href="https://github.com/damienalexandre">Damien Alexandre (damienalexandre)</a></li>
-<li><a href="https://github.com/westonruter">Weston Ruter (westonruter)</a></li>
 <li><a href="https://github.com/driade">David Fernández (driade)</a></li>
 <li><a href="https://github.com/ricklambrechts">Rick Lambrechts (ricklambrechts)</a></li>
 <li><a href="https://github.com/SomeBdyElse">Hannes Lau (SomeBdyElse)</a></li>
