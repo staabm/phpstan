@@ -4827,17 +4827,17 @@
     "empty.expr": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
@@ -4851,63 +4851,80 @@
     "empty.offset": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         }
     },
     "empty.property": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        }
+    },
+    "empty.propertyNeverNullOrUninitialized": {
+        "PHPStan\\Rules\\Variables\\EmptyRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\IssetRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
     "empty.variable": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         }
     },
@@ -8127,80 +8144,97 @@
     "isset.expr": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
     "isset.offset": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         }
     },
     "isset.property": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        }
+    },
+    "isset.propertyNeverNullOrUninitialized": {
+        "PHPStan\\Rules\\Variables\\EmptyRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\IssetRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
     "isset.variable": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         }
     },
@@ -9819,80 +9853,97 @@
     "nullCoalesce.expr": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
     "nullCoalesce.offset": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L266",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L92"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L288",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L93"
             ]
         }
     },
     "nullCoalesce.property": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        }
+    },
+    "nullCoalesce.propertyNeverNullOrUninitialized": {
+        "PHPStan\\Rules\\Variables\\EmptyRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\IssetRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
+            ]
+        },
+        "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316"
             ]
         }
     },
     "nullCoalesce.variable": {
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L243",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L294",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L63"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L265",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L316",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L64"
             ]
         }
     },
@@ -9954,20 +10005,20 @@
         },
         "PHPStan\\Rules\\Variables\\EmptyRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L219",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L224"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L241",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L246"
             ]
         },
         "PHPStan\\Rules\\Variables\\IssetRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L219",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L224"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L241",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L246"
             ]
         },
         "PHPStan\\Rules\\Variables\\NullCoalesceRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L219",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L224"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L241",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/IssetCheck.php#L246"
             ]
         }
     },
