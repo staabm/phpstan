@@ -58,7 +58,7 @@ class RestrictedUsageCollector implements Collector
             'identifiers' => array_map(static fn ($type) => $type->getValue(), $identifier->getConstantStrings()),
             'class' => $scope->getClassReflection()->getName(),
             'file' => $scope->getFile(),
-            'line' => $args[0]->getStartLine(),
+            'line' => $args[1]->getStartLine(),
         ];
     }
 
