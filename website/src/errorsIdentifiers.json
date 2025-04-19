@@ -8536,6 +8536,46 @@
             ]
         }
     },
+    "method.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L73",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L84"
+            ]
+        }
+    },
+    "method.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "method.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "method.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "method.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
     "method.dynamicName": {
         "PHPStan\\Rules\\VariableVariables\\VariableMethodCallRule": {
             "phpstan/phpstan-strict-rules": [
@@ -8559,6 +8599,46 @@
         "PHPStan\\Rules\\Comparison\\ImpossibleCheckTypeMethodCallRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeMethodCallRule.php#L70"
+            ]
+        }
+    },
+    "method.internal": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L65",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L94"
+            ]
+        }
+    },
+    "method.internalClass": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "method.internalEnum": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "method.internalInterface": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "method.internalTrait": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
             ]
         }
     },
@@ -12925,6 +13005,46 @@
             ]
         }
     },
+    "staticMethod.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L73",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L84"
+            ]
+        }
+    },
+    "staticMethod.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "staticMethod.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "staticMethod.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
+    "staticMethod.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L36",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L51"
+            ]
+        }
+    },
     "staticMethod.dynamicCall": {
         "PHPStan\\Rules\\StrictCalls\\DynamicCallOnStaticMethodsCallableRule": {
             "phpstan/phpstan-strict-rules": [
@@ -12953,6 +13073,46 @@
         "PHPStan\\Rules\\Comparison\\ImpossibleCheckTypeStaticMethodCallRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/ImpossibleCheckTypeStaticMethodCallRule.php#L71"
+            ]
+        }
+    },
+    "staticMethod.internal": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L65",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L94"
+            ]
+        }
+    },
+    "staticMethod.internalClass": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "staticMethod.internalEnum": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "staticMethod.internalInterface": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
+            ]
+        }
+    },
+    "staticMethod.internalTrait": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalMethodUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalMethodUsageExtension.php#L77"
             ]
         }
     },
