@@ -6,6 +6,7 @@ use PhpParser\Node;
 use PhpParser\Node\Expr\MethodCall;
 use PHPStan\Analyser\Scope;
 use PHPStan\Collectors\Collector;
+use PHPStan\Rules\RestrictedUsage\RestrictedUsage;
 use PHPStan\Rules\RuleErrorBuilder;
 use PHPStan\ShouldNotHappenException;
 use PHPStan\Type\ObjectType;
@@ -41,6 +42,17 @@ class RuleErrorBuilderCollector implements Collector
 
 		$identifier = $scope->getType($args[0]->value);
 		if (count($identifier->getConstantStrings()) === 0) {
+            $argValue = $args[0]->value;
+            if (
+                $argValue instanceof Node\Expr\PropertyFetch
+                && $argValue->name instanceof Node\Identifier
+                && $argValue->name->toString() === 'identifier'
+            ) {
+                $propertyFetchOnType = $scope->getType($argValue->var);
+                if ((new ObjectType(RestrictedUsage::class))->isSuperTypeOf($propertyFetchOnType)->yes()) {
+                    return null;
+                }
+            }
 			throw new ShouldNotHappenException(sprintf('Unknown identifier'));
 		}
 
