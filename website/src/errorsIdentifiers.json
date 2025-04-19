@@ -871,46 +871,6 @@
             ]
         }
     },
-    "staticMethod.deprecated": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedStaticMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L118",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L126"
-            ]
-        }
-    },
-    "staticMethod.deprecatedClass": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedStaticMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L103",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L95"
-            ]
-        }
-    },
-    "staticMethod.deprecatedEnum": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedStaticMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L103",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L95"
-            ]
-        }
-    },
-    "staticMethod.deprecatedInterface": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedStaticMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L103",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L95"
-            ]
-        }
-    },
-    "staticMethod.deprecatedTrait": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedStaticMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L103",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedStaticMethodRule.php#L95"
-            ]
-        }
-    },
     "staticMethod.dynamicCall": {
         "PHPStan\\Rules\\StrictCalls\\DynamicCallOnStaticMethodsCallableRule": {
             "phpstan/phpstan-strict-rules": [
