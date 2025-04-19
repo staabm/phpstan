@@ -17,6 +17,11 @@ services:
 			relativePathHelper: @simpleRelativePathHelper
 
 	-
+		class: IdentifierExtractor\RestrictedUsageCollector
+		tags:
+			- phpstan.collector
+
+	-
 		class: IdentifierExtractor\RuleErrorBuilderCollector
 		tags:
 			- phpstan.collector
