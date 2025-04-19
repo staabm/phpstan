@@ -21,8 +21,15 @@ class ErrorFormatter implements \PHPStan\Command\ErrorFormatter\ErrorFormatter
 			return $this->tableErrorFormatter->formatErrors($analysisResult, $output);
 		}
 
+        foreach ($analysisResult->getNotFileSpecificErrors() as $notFileSpecificError) {
+            return $this->tableErrorFormatter->formatErrors($analysisResult, $output);
+        }
+
 		$json = [];
 		foreach ($analysisResult->getFileSpecificErrors() as $error) {
+            if ($error->hasNonIgnorableException()) {
+                return $this->tableErrorFormatter->formatErrors($analysisResult, $output);
+            }
 			if ($error->getIdentifier() === 'ignore.unmatchedLine' || $error->getIdentifier() === 'ignore.unmatchedIdentifier') {
 				continue;
 			}
