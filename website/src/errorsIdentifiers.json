@@ -411,14 +411,6 @@
             ]
         }
     },
-    "method.deprecated": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedMethodRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedMethodRule.php#L69",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedMethodRule.php#L80"
-            ]
-        }
-    },
     "method.dynamicName": {
         "PHPStan\\Rules\\VariableVariables\\VariableMethodCallRule": {
             "phpstan/phpstan-strict-rules": [
