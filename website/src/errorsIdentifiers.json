@@ -3860,6 +3860,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
             ]
         },
+        "PHPStan\\Rules\\RestrictedUsage\\RestrictedStaticMethodCallableUsageRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
+            ]
+        },
         "PHPStan\\Rules\\RestrictedUsage\\RestrictedStaticMethodUsageRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
