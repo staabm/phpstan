@@ -42,6 +42,7 @@ the logo of your company in PHPStan's README and the website.
 
 <ul>
 <!-- thirty --><li><a href="https://github.com/martin-georgiev">Martin Georgiev (martin-georgiev)</a></li>
+<li><a href="https://github.com/glami">GLAMI (glami)</a></li>
 <!-- thirty -->
 
 <!-- thirty-org --><li><a href="https://github.com/polylang">Polylang (polylang)</a></li>
@@ -52,7 +53,6 @@ the logo of your company in PHPStan's README and the website.
 
 <ul>
 <!-- five --><li><a href="https://github.com/canvural">Can Vural (canvural)</a></li>
-<li><a href="https://github.com/pyrech">Loïck Piera (pyrech)</a></li>
 <li><a href="https://github.com/adamlundrigan">Adam Lundrigan (adamlundrigan)</a></li>
 <li><a href="https://github.com/escopecz">John Linhart (escopecz)</a></li>
 <li><a href="https://github.com/Ocramius">Marco Pivetta (Ocramius)</a></li>
