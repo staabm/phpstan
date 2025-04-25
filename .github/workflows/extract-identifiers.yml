@@ -3,6 +3,7 @@
 name: "Extract identifiers"
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - "2.1.x"
