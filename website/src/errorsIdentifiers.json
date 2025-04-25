@@ -1569,6 +1569,44 @@
             ]
         }
     },
+    "assert.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "assert.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "assert.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "assert.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "assert.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "assert.impossibleType": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
@@ -1853,6 +1891,14 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L101"
             ]
         },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        },
         "PHPStan\\Rules\\EnumCases\\EnumCaseAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L101"
@@ -1896,6 +1942,34 @@
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/AttributesCheck.php#L101"
+            ]
+        }
+    },
+    "attribute.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "attribute.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "attribute.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "attribute.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -2879,6 +2953,44 @@
             ]
         }
     },
+    "catch.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "catch.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "catch.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "catch.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "catch.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "catch.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -2978,13 +3090,41 @@
             ]
         }
     },
-    "class.extendsDeprecatedClass": {
-        "PHPStan\\Rules\\Deprecations\\InheritanceOfDeprecatedClassRule": {
+    "class.extendsDeprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedClassRule.php#L69",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedClassRule.php#L76",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedClassRule.php#L83",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedClassRule.php#L89"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "class.extendsDeprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.extendsDeprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.extendsDeprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.extendsDeprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -3058,13 +3198,41 @@
             ]
         }
     },
-    "class.implementsDeprecatedInterface": {
-        "PHPStan\\Rules\\Deprecations\\ImplementationOfDeprecatedInterfaceRule": {
+    "class.implementsDeprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/ImplementationOfDeprecatedInterfaceRule.php#L71",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/ImplementationOfDeprecatedInterfaceRule.php#L78",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/ImplementationOfDeprecatedInterfaceRule.php#L85",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/ImplementationOfDeprecatedInterfaceRule.php#L91"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "class.implementsDeprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.implementsDeprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.implementsDeprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "class.implementsDeprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -4369,6 +4537,14 @@
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L124",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L132"
             ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
         }
     },
     "classConstant.deprecatedClass": {
@@ -4376,6 +4552,11 @@
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L91",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L99"
+            ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -4385,6 +4566,11 @@
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L91",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L99"
             ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
         }
     },
     "classConstant.deprecatedInterface": {
@@ -4393,6 +4579,11 @@
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L91",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L99"
             ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
         }
     },
     "classConstant.deprecatedTrait": {
@@ -4400,6 +4591,11 @@
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L91",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/FetchingClassConstOfDeprecatedClassRule.php#L99"
+            ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -4833,6 +5029,58 @@
             ]
         }
     },
+    "deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L115",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L126",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L139",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L156",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L75",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L86",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L99"
+            ]
+        }
+    },
+    "deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L115",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L126",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L139",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L156",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L75",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L86",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L99"
+            ]
+        }
+    },
+    "deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L115",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L126",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L139",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L156",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L75",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L86",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L99"
+            ]
+        }
+    },
+    "deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L115",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L126",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L139",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L156",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L75",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L86",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L99"
+            ]
+        }
+    },
     "div.leftNonNumeric": {
         "PHPStan\\Rules\\Operators\\OperandsInArithmeticDivisionRule": {
             "phpstan/phpstan-strict-rules": [
@@ -5209,6 +5457,44 @@
         "PHPStan\\Rules\\Generics\\EnumTemplateTypeRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/EnumTemplateTypeRule.php#L40"
+            ]
+        }
+    },
+    "enum.implementsDeprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "enum.implementsDeprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "enum.implementsDeprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "enum.implementsDeprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "enum.implementsDeprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -6399,6 +6685,82 @@
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Generics/GenericObjectTypeCheck.php#L114"
+            ]
+        }
+    },
+    "generics.deprecatedBound": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "generics.deprecatedClassBound": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedClassDefault": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedDefault": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "generics.deprecatedEnumBound": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedEnumDefault": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedInterfaceBound": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedInterfaceDefault": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedTraitBound": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "generics.deprecatedTraitDefault": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -7977,6 +8339,44 @@
             ]
         }
     },
+    "instanceof.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "instanceof.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "instanceof.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "instanceof.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "instanceof.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "instanceof.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -8069,11 +8469,41 @@
             ]
         }
     },
-    "interface.extendsDeprecatedInterface": {
-        "PHPStan\\Rules\\Deprecations\\InheritanceOfDeprecatedInterfaceRule": {
+    "interface.extendsDeprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedInterfaceRule.php#L66",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InheritanceOfDeprecatedInterfaceRule.php#L73"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "interface.extendsDeprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "interface.extendsDeprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "interface.extendsDeprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "interface.extendsDeprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -9380,6 +9810,44 @@
             ]
         }
     },
+    "methodTag.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "methodTag.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "methodTag.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "methodTag.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "methodTag.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "methodTag.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -9882,6 +10350,44 @@
             ]
         }
     },
+    "mixin.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "mixin.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "mixin.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "mixin.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "mixin.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "mixin.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -10018,10 +10524,40 @@
         }
     },
     "new.deprecated": {
-        "PHPStan\\Rules\\Deprecations\\InstantiationOfDeprecatedClassRule": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InstantiationOfDeprecatedClassRule.php#L91",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/InstantiationOfDeprecatedClassRule.php#L97"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "new.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "new.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "new.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "new.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -10755,7 +11291,22 @@
             ]
         }
     },
+    "parameter.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
     "parameter.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L54",
@@ -10774,6 +11325,11 @@
         }
     },
     "parameter.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L54",
@@ -10792,6 +11348,11 @@
         }
     },
     "parameter.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L54",
@@ -10810,6 +11371,11 @@
         }
     },
     "parameter.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L54",
@@ -12155,6 +12721,42 @@
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/AccessDeprecatedPropertyRule.php#L66",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/AccessDeprecatedPropertyRule.php#L77"
             ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "property.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "property.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "property.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "property.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
         }
     },
     "property.dynamicName": {
@@ -12686,6 +13288,44 @@
             ]
         }
     },
+    "propertyTag.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "propertyTag.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "propertyTag.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "propertyTag.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "propertyTag.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "propertyTag.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -12827,6 +13467,44 @@
             ]
         }
     },
+    "requireExtends.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "requireExtends.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireExtends.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireExtends.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireExtends.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "requireExtends.duplicate": {
         "PHPStan\\Rules\\PhpDoc\\RequireExtendsDefinitionClassRule": {
             "phpstan/phpstan-src": [
@@ -12962,6 +13640,44 @@
             ]
         }
     },
+    "requireImplements.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "requireImplements.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireImplements.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireImplements.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "requireImplements.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "requireImplements.enum": {
         "PHPStan\\Rules\\PhpDoc\\RequireImplementsDefinitionTraitRule": {
             "phpstan/phpstan-src": [
@@ -13053,7 +13769,22 @@
             ]
         }
     },
+    "return.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
     "return.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L78",
@@ -13072,6 +13803,11 @@
         }
     },
     "return.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L78",
@@ -13090,6 +13826,11 @@
         }
     },
     "return.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L78",
@@ -13108,6 +13849,11 @@
         }
     },
     "return.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\TypeHintDeprecatedInClassMethodSignatureRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/TypeHintDeprecatedInClassMethodSignatureRule.php#L78",
@@ -13433,6 +14179,44 @@
             ]
         }
     },
+    "selfOut.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "selfOut.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "selfOut.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "selfOut.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "selfOut.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
     "selfOut.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
@@ -13599,6 +14383,14 @@
         }
     },
     "staticMethod.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L79",
@@ -13607,6 +14399,11 @@
         }
     },
     "staticMethod.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L42",
@@ -13615,6 +14412,11 @@
         }
     },
     "staticMethod.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L42",
@@ -13623,6 +14425,11 @@
         }
     },
     "staticMethod.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L42",
@@ -13631,6 +14438,11 @@
         }
     },
     "staticMethod.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        },
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L42",
@@ -13980,6 +14792,42 @@
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/AccessDeprecatedStaticPropertyRule.php#L105",
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/AccessDeprecatedStaticPropertyRule.php#L94"
+            ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "staticProperty.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "staticProperty.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "staticProperty.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "staticProperty.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -14586,10 +15434,40 @@
         }
     },
     "traitUse.deprecated": {
-        "PHPStan\\Rules\\Deprecations\\UsageOfDeprecatedTraitRule": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/UsageOfDeprecatedTraitRule.php#L65",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/UsageOfDeprecatedTraitRule.php#L72"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "traitUse.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "traitUse.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "traitUse.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "traitUse.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -14649,6 +15527,44 @@
         "PHPStan\\Rules\\Classes\\LocalTypeTraitUseAliasesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/LocalTypeAliasesCheck.php#L349"
+            ]
+        }
+    },
+    "typeAlias.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "typeAlias.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "typeAlias.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "typeAlias.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "typeAlias.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
@@ -14871,6 +15787,44 @@
         "PHPStan\\Rules\\Names\\UsedNamesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Names/UsedNamesRule.php#L133"
+            ]
+        }
+    },
+    "varTag.deprecated": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L172",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L180",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L194",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L202"
+            ]
+        }
+    },
+    "varTag.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "varTag.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "varTag.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
+            ]
+        }
+    },
+    "varTag.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L61"
             ]
         }
     },
