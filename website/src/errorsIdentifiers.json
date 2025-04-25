@@ -8434,7 +8434,7 @@
     "interface.traitUse": {
         "PHPStan\\Rules\\Classes\\ExistingClassInTraitUseRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L53"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L56"
             ]
         }
     },
@@ -14567,7 +14567,7 @@
     "trait.notFound": {
         "PHPStan\\Rules\\Classes\\ExistingClassInTraitUseRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L72"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L75"
             ]
         }
     },
@@ -14581,7 +14581,7 @@
     "traitUse.class": {
         "PHPStan\\Rules\\Classes\\ExistingClassInTraitUseRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L84"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L87"
             ]
         }
     },
@@ -14596,14 +14596,14 @@
     "traitUse.enum": {
         "PHPStan\\Rules\\Classes\\ExistingClassInTraitUseRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L94"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L97"
             ]
         }
     },
     "traitUse.interface": {
         "PHPStan\\Rules\\Classes\\ExistingClassInTraitUseRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L89"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInTraitUseRule.php#L92"
             ]
         }
     },
