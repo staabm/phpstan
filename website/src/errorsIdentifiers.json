@@ -4130,6 +4130,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
             ]
         },
+        "PHPStan\\Rules\\RestrictedUsage\\RestrictedStaticPropertyUsageRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
+            ]
+        },
         "PHPStan\\Rules\\Traits\\TraitAttributesRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L228"
@@ -12586,10 +12591,24 @@
             ]
         }
     },
+    "property.internal": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L64",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L94"
+            ]
+        }
+    },
     "property.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
             ]
         }
     },
@@ -12598,6 +12617,12 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
             ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
+            ]
         }
     },
     "property.internalInterface": {
@@ -12605,12 +12630,24 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
             ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
+            ]
         }
     },
     "property.internalTrait": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
             ]
         }
     },
@@ -14446,10 +14483,24 @@
             ]
         }
     },
+    "staticProperty.internal": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L64",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L94"
+            ]
+        }
+    },
     "staticProperty.internalClass": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
             ]
         }
     },
@@ -14458,6 +14509,12 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
             ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
+            ]
         }
     },
     "staticProperty.internalInterface": {
@@ -14465,12 +14522,24 @@
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
             ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
+            ]
         }
     },
     "staticProperty.internalTrait": {
         "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        },
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalPropertyUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L49",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalPropertyUsageExtension.php#L78"
             ]
         }
     },
