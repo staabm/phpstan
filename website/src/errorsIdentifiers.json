@@ -5853,15 +5853,15 @@
         }
     },
     "function.deprecated": {
-        "PHPStan\\Rules\\Deprecations\\CallToDeprecatedFunctionRule": {
-            "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedFunctionRule.php#L60",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallToDeprecatedFunctionRule.php#L69"
-            ]
-        },
         "PHPStan\\Rules\\Deprecations\\CallWithDeprecatedIniOptionRule": {
             "phpstan/phpstan-deprecation-rules": [
                 "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/CallWithDeprecatedIniOptionRule.php#L128"
+            ]
+        },
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedFunctionUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedFunctionUsageExtension.php#L41",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedFunctionUsageExtension.php#L51"
             ]
         }
     },
