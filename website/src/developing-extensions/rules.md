@@ -308,6 +308,13 @@ That's why PHPStan introduces [custom virtual nodes](https://apiref.phpstan.org/
 * Rules are called before the scope is updated with the information of the registered node type. That means if we're registering our rule for the `PhpParser\Node\Stmt\Class_` node, the scope will say we're not in a class. But if we use the virtual [`InClassNode`](https://apiref.phpstan.org/2.1.x/PHPStan.Node.InClassNode.html), `$scope->getClassReflection()` will contain the class reflection. Same goes for [`InClassMethodNode`](https://apiref.phpstan.org/2.1.x/PHPStan.Node.InClassMethodNode.html) and [`InFunctionNode`](https://apiref.phpstan.org/2.1.x/PHPStan.Node.InFunctionNode.html).
 * If we're interested in class properties regardless of whether they're traditional or [promoted](https://wiki.php.net/rfc/constructor_promotion), we can use the [`ClassPropertyNode`](https://apiref.phpstan.org/2.1.x/PHPStan.Node.ClassPropertyNode.html).
 
+Restricted Usage Extensions
+---------------
+
+<div class="text-xs inline-block border border-green-600 text-green-600 bg-green-100 rounded px-1 mb-4">Available in PHPStan 2.1.13</div>
+
+If you want to restrict where can methods, properties, functions etc. be accessed from, you don't have to implement a custom rule and figure out all of the above. Check out [Restricted Usage Extensions](/developing-extensions/restricted-usage-extensions) with simple interfaces. They cover a lot of ground with very little effort.
+
 Collectors
 ---------------
 

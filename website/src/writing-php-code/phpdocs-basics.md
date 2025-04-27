@@ -11,7 +11,7 @@ Valid PHPDocs start with `/**`. Variants starting only with `/*` or line comment
 [Learn more about PHPDoc types »](/writing-php-code/phpdoc-types) you can use in the tags described below.
 
 <div class="bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4 mb-4" role="alert">
-	
+
 Would you like to fix incorrect PHPDocs in 3<sup>rd</sup> party code you have in /vendor? You can! Check out [Stub Files »](/user-guide/stub-files)
 
 </div>
@@ -320,9 +320,9 @@ PHPDoc tags `@phpstan-self-out` or `@phpstan-this-out` can be used to change the
  */
 class Collection
 {
-	
+
 	// ...
-	
+
 	/**
 	 * @template TItemValue
 	 * @param TItemValue $item
@@ -332,7 +332,7 @@ class Collection
 	{
 		// ...
 	}
-	
+
 }
 
 /** @param Collection<int> $c */
@@ -398,6 +398,26 @@ $bar->doFoo(); // OK
 ```
 
 You can also adjust the deprecation information based on e.g. custom attributes. [Learn more »](/developing-extensions/custom-deprecations)
+
+Internal symbols
+---------------
+
+<div class="text-xs inline-block border border-green-600 text-green-600 bg-green-100 rounded px-1 mb-4">Available in PHPStan 2.1.13 + Bleeding Edge</div>
+
+Use `@internal` tag to mark declarations as internal:
+
+```php
+namespace AwesomeLibrary\Foo;
+
+/** @internal */
+class Foo
+{
+}
+```
+
+Usages of class `Foo` outside of top `AwesomeLibrary` namespace will be reported as an error.
+
+The `@internal` tag can be used for classes, interfaces, enums, traits, properties, methods, class constants and functions.
 
 Impure functions
 ---------------

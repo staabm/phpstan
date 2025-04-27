@@ -56,6 +56,10 @@
             "link": "/developing-extensions/collectors"
         },
         {
+            "title": "Restricted Usage Extensions",
+            "link": "/developing-extensions/restricted-usage-extensions"
+        },
+        {
             "title": "Error Formatters",
             "link": "/developing-extensions/error-formatters"
         },

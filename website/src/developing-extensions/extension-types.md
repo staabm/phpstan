@@ -18,6 +18,13 @@ PHPStan allows writing custom rules to check for specific situations in your own
 
 [Learn more »](/developing-extensions/rules)
 
+Restricted usage extensions
+-------------------
+
+These extensions allow you to restrict where methods, properties, functions etc. can be accessed from without implementing full-fledged custom rules.
+
+[Learn more »](/developing-extensions/restricted-usage-extensions)
+
 Error formatters
 ------------------
 
