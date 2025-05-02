@@ -72,6 +72,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/vaclavpavek">Václav Pávek (vaclavpavek)</a></li>
 <li><a href="https://github.com/afilina">Anna Filina (afilina)</a></li>
 <li><a href="https://github.com/Einenlum">Yann Rabiller (Einenlum)</a></li>
+<li><a href="https://github.com/nikophil">Nicolas PHILIPPE (nikophil)</a></li>
 <li><a href="https://github.com/solcik">David Šolc (solcik)</a></li>
 <li><a href="https://github.com/rieschl">Thomas Rieschl (rieschl)</a></li>
 <li><a href="https://github.com/lampbristol">Lamp Bristol (lampbristol)</a></li>
