@@ -4479,10 +4479,10 @@
         }
     },
     "class.toStringDeprecated": {
-        "PHPStan\\Rules\\Deprecations\\UsageOfDeprecatedCastRule": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/UsageOfDeprecatedCastRule.php#L51",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/UsageOfDeprecatedCastRule.php#L60"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L78",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L88"
             ]
         }
     },
@@ -9174,8 +9174,8 @@
     "method.deprecated": {
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L79",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L91"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L100",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L112"
             ]
         }
     },
@@ -14109,8 +14109,8 @@
     "staticMethod.deprecated": {
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedMethodUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L79",
-                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L91"
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L100",
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedMethodUsageExtension.php#L112"
             ]
         }
     },
