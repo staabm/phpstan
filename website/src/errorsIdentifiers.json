@@ -10506,6 +10506,13 @@
             ]
         }
     },
+    "new.staticInAbstractClassStaticMethod": {
+        "PHPStan\\Rules\\Classes\\NewStaticInAbstractClassStaticMethodRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/NewStaticInAbstractClassStaticMethodRule.php#L58"
+            ]
+        }
+    },
     "new.unresolvableReturnType": {
         "PHPStan\\Rules\\Classes\\ClassAttributesRule": {
             "phpstan/phpstan-src": [
