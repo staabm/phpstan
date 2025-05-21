@@ -61,6 +61,14 @@ Specifies the memory limit in the same format `php.ini` accepts.
 
 Example: `--memory-limit 1G`
 
+### `--tmp-file`, `--instead-of`
+
+<div class="text-xs inline-block border border-green-600 text-green-600 bg-green-100 rounded px-1 mb-4">Available in PHPStan 2.1.17</div>
+
+<div class="text-xs inline-block border border-green-600 text-green-600 bg-green-100 rounded px-1 mb-4">Available in PHPStan 1.12.27</div>
+
+These options are used for [editor mode](/user-guide/editor-mode).
+
 ### `--xdebug`
 
 PHPStan turns off Xdebug if it's enabled to achieve better performance.
