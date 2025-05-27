@@ -21,7 +21,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/zolweb">ZOL (zolweb)</a></li>
 <li><a href="https://github.com/TicketSwap">TicketSwap (TicketSwap)</a></li>
 <li><a href="https://github.com/craftcms">Craft CMS (craftcms)</a></li>
-<li><a href="https://github.com/worksome">Worksome (worksome)</a></li>
 <li><a href="https://github.com/cdn77">CDN77.com (cdn77)</a></li>
 <!-- hundred -->
 
