@@ -60,7 +60,7 @@ async function analyseResultInternal(
 		const lambdaResult = await promise;
 
 		const jsonResponse = JSON.parse(lambdaResult.Payload as string);
-		versionedErrors.push({
+		const data: any = {
 			phpVersion: phpVersion,
 			errors: jsonResponse.result.map((error: any): PHPStanError => {
 				const obj: PHPStanError = {
@@ -78,15 +78,22 @@ async function analyseResultInternal(
 
 				return obj;
 			}),
-		});
+		};
+		if (typeof jsonResponse.fixedCode !== 'undefined') {
+			data.fixedCode = jsonResponse.fixedCode;
+		}
+		if (typeof jsonResponse.fixedCodeDiff !== 'undefined') {
+			data.fixedCodeDiff = jsonResponse.fixedCodeDiff;
+		}
+		versionedErrors.push(data);
 	}
 
 	return versionedErrors;
 }
 
-function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]}[]): any[] {
-	const versions: {versions: number[], errors: PHPStanError[]}[] = [];
-	let last: {versions: number[], errors: PHPStanError[]} | null = null;
+function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[], fixedCode?: string, fixedCodeDiff?: string}[]): any[] {
+	const versions: {versions: number[], errors: PHPStanError[], fixedCode?: string, fixedCodeDiff?: string}[] = [];
+	let last: {versions: number[], errors: PHPStanError[], fixedCode?: string, fixedCodeDiff?: string} | null = null;
 	for (const version of versionedErrors) {
 		const phpVersion = version.phpVersion;
 		const errors = version.errors;
@@ -100,6 +107,24 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 		}
 
 		if (errors.length !== last.errors.length) {
+			versions.push(last);
+			last = current;
+			continue;
+		}
+
+		if (typeof version.fixedCode !== 'undefined') {
+			if (typeof (last.fixedCode === 'undefined')) {
+				versions.push(last);
+				last = current;
+				continue;
+			}
+
+			if (version.fixedCode !== last.fixedCode) {
+				versions.push(last);
+				last = current;
+				continue;
+			}
+		} else if (typeof (last.fixedCode !== 'undefined')) {
 			versions.push(last);
 			last = current;
 			continue;
@@ -155,7 +180,7 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 		versions.push(last);
 	}
 
-	versions.sort((a: {versions: number[], errors: PHPStanError[]}, b: {versions: number[], errors: PHPStanError[]}) => {
+	versions.sort((a, b) => {
 		const aVersion = a.versions[a.versions.length - 1];
 		const bVersion = b.versions[b.versions.length - 1];
 
@@ -185,10 +210,17 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 		} else if (version.errors.length > 0) {
 			title += ' (' + version.errors.length + ' errors)';
 		}
-		tabs.push({
+		const tabData: any = {
 			errors: version.errors,
 			title: title,
-		});
+		};
+		if (typeof version.fixedCode !== 'undefined') {
+			tabData.fixedCode = version.fixedCode;
+		}
+		if (typeof version.fixedCodeDiff !== 'undefined') {
+			tabData.fixedCodeDiff = version.fixedCodeDiff;
+		}
+		tabs.push(tabData);
 	}
 
 	return tabs;
