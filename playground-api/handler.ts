@@ -97,10 +97,16 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 	for (const version of versionedErrors) {
 		const phpVersion = version.phpVersion;
 		const errors = version.errors;
-		const current = {
+		const current: {versions: number[], errors: PHPStanError[], fixedCode?: string, fixedCodeDiff?: string} = {
 			versions: [phpVersion],
 			errors,
 		};
+		if (typeof version.fixedCode !== 'undefined') {
+			current.fixedCode = version.fixedCode;
+		}
+		if (typeof version.fixedCodeDiff !== 'undefined') {
+			current.fixedCodeDiff = version.fixedCodeDiff;
+		}
 		if (last === null) {
 			last = current;
 			continue;
