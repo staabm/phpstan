@@ -108,6 +108,9 @@ return function ($event) use ($phpstanVersion) {
 		if ($result->getIdentifier() !== null) {
 			$error['identifier'] = $result->getIdentifier();
 		}
+        if ($result->getFixedErrorDiff() !== null) {
+            $error['fixDiff'] = $result->getFixedErrorDiff()->diff;
+        }
 		$errors[] = $error;
 	}
 
