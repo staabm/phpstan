@@ -25,6 +25,17 @@ services:
 	-
 		class: PHPStan\Rules\Playground\PromoteParameterRule
 		arguments:
+			rule: @overridingMethodRule
+			nodeType: PHPStan\Node\InClassMethodNode
+			parameterValue: %checkMissingOverrideMethodAttribute%
+			parameterName: checkMissingOverrideMethodAttribute
+		tags:
+			- phpstan.rules.rule
+		autowired: false
+
+	-
+		class: PHPStan\Rules\Playground\PromoteParameterRule
+		arguments:
 			rule: @nonexistentOffsetInArrayDimFetchGeneralArrayRule
 			nodeType: PhpParser\Node\Expr\ArrayDimFetch
 			parameterValue: %reportPossiblyNonexistentGeneralArrayOffset%
@@ -77,3 +88,9 @@ services:
 	uninitializedPropertyRule:
 		class: PHPStan\Rules\Properties\UninitializedPropertyRule
 		autowired: false
+
+	overridingMethodRule:
+		class: PHPStan\Rules\Methods\OverridingMethodRule
+		arguments:
+			checkPhpDocMethodSignatures: %checkPhpDocMethodSignatures%
+			checkMissingOverrideMethodAttribute: true
