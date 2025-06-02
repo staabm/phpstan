@@ -96,6 +96,7 @@ return function ($event) use ($phpstanVersion) {
 
 	$errors = [];
 	$tipFormatter = new OutputFormatter(false);
+    $diffs = [];
 	foreach ($results as $result) {
 		$error = [
 			'message' => $result->getMessage(),
@@ -109,10 +110,22 @@ return function ($event) use ($phpstanVersion) {
 			$error['identifier'] = $result->getIdentifier();
 		}
         if ($result->getFixedErrorDiff() !== null) {
+            $diffs[] = $result->getFixedErrorDiff();
             $error['fixDiff'] = $result->getFixedErrorDiff()->diff;
         }
 		$errors[] = $error;
 	}
 
-	return ['result' => $errors, 'version' => $phpstanVersion];
+    $response = ['result' => $errors, 'version' => $phpstanVersion];
+
+    if (count($diffs) > 0) {
+        /** @var \PHPStan\Fixable\Patcher $patcher */
+        $patcher = $container->getByType(\PHPStan\Fixable\Patcher::class);
+        $differ = new \SebastianBergmann\Diff\Differ(new \SebastianBergmann\Diff\Output\UnifiedDiffOutputBuilder('', addLineNumbers: true));
+        $fixedCode = $patcher->applyDiffs($codePath, $diffs);
+        $response['fixedCode'] = $fixedCode;
+        $response['fixedCodeDiff'] = $differ->diff($code, $fixedCode);
+    }
+
+	return $response;
 };
