@@ -113,7 +113,7 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 		}
 
 		if (typeof version.fixedCode !== 'undefined') {
-			if (typeof (last.fixedCode === 'undefined')) {
+			if (typeof last.fixedCode === 'undefined') {
 				versions.push(last);
 				last = current;
 				continue;
@@ -124,7 +124,7 @@ function createTabs(versionedErrors: {phpVersion: number, errors: PHPStanError[]
 				last = current;
 				continue;
 			}
-		} else if (typeof (last.fixedCode !== 'undefined')) {
+		} else if (typeof last.fixedCode !== 'undefined') {
 			versions.push(last);
 			last = current;
 			continue;
