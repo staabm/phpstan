@@ -94,3 +94,4 @@ services:
 		arguments:
 			checkPhpDocMethodSignatures: %checkPhpDocMethodSignatures%
 			checkMissingOverrideMethodAttribute: true
+		autowired: false
