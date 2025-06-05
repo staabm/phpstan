@@ -944,7 +944,7 @@
         },
         "PHPStan\\Rules\\Functions\\RandomIntParametersRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/RandomIntParametersRule.php#L72"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/RandomIntParametersRule.php#L76"
             ]
         },
         "PHPStan\\Rules\\Functions\\SortParameterCastableToStringRule": {
@@ -1503,21 +1503,21 @@
     "arrayFilter.alwaysEmpty": {
         "PHPStan\\Rules\\Functions\\ArrayFilterRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L120"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L125"
             ]
         }
     },
     "arrayFilter.empty": {
         "PHPStan\\Rules\\Functions\\ArrayFilterRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L80"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L85"
             ]
         }
     },
     "arrayFilter.same": {
         "PHPStan\\Rules\\Functions\\ArrayFilterRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayFilterRule.php#L105"
             ]
         }
     },
@@ -1546,14 +1546,14 @@
     "arrayValues.empty": {
         "PHPStan\\Rules\\Functions\\ArrayValuesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayValuesRule.php#L80"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayValuesRule.php#L85"
             ]
         }
     },
     "arrayValues.list": {
         "PHPStan\\Rules\\Functions\\ArrayValuesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayValuesRule.php#L98"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/ArrayValuesRule.php#L103"
             ]
         }
     },
