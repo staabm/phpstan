@@ -5988,7 +5988,7 @@
         },
         "PHPStan\\Rules\\Functions\\CallToFunctionStatementWithoutSideEffectsRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/CallToFunctionStatementWithoutSideEffectsRule.php#L135"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/CallToFunctionStatementWithoutSideEffectsRule.php#L136"
             ]
         }
     },
@@ -11683,7 +11683,7 @@
     "phpstan.nativeType": {
         "PHPStan\\Rules\\Debug\\FileAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L122"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L130"
             ]
         }
     },
@@ -11729,6 +11729,13 @@
             ]
         }
     },
+    "phpstan.superType": {
+        "PHPStan\\Rules\\Debug\\FileAssertRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L164"
+            ]
+        }
+    },
     "phpstan.traitNotFound": {
         "PHPStan\\Testing\\NonexistentAnalysedTraitRule": {
             "phpstan/phpstan-src": [
@@ -11739,27 +11746,28 @@
     "phpstan.type": {
         "PHPStan\\Rules\\Debug\\FileAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L89"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L97"
             ]
         }
     },
     "phpstan.unknownExpectation": {
         "PHPStan\\Rules\\Debug\\FileAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L109",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L142",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L117",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L150",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L159",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L168",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L187",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L76"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L184",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L192",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L201",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L210",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L229",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L84"
             ]
         }
     },
     "phpstan.variable": {
         "PHPStan\\Rules\\Debug\\FileAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L199"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Debug/FileAssertRule.php#L241"
             ]
         }
     },
