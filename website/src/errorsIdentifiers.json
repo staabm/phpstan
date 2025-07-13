@@ -3543,7 +3543,7 @@
     "class.noParent": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L114"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L138"
             ]
         },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
@@ -3657,8 +3657,8 @@
         },
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L127",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L137",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L151",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L161",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L237"
             ]
         },
@@ -4563,7 +4563,7 @@
     "classConstant.dynamicString": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L201"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L225"
             ]
         }
     },
@@ -4672,6 +4672,13 @@
             ]
         }
     },
+    "classConstant.nameNotString": {
+        "PHPStan\\Rules\\Classes\\ClassConstantRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L86"
+            ]
+        }
+    },
     "classConstant.nameType": {
         "PHPStan\\Rules\\Constants\\DynamicClassConstantFetchRule": {
             "phpstan/phpstan-src": [
@@ -4715,28 +4722,28 @@
     "classConstant.nonObject": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L225"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L249"
             ]
         }
     },
     "classConstant.notFound": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L239"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L263"
             ]
         }
     },
     "classConstant.notSupported": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L192"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L216"
             ]
         }
     },
     "classConstant.onTrait": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L155"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L179"
             ]
         }
     },
@@ -4757,14 +4764,14 @@
     "classConstant.private": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L251"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L275"
             ]
         }
     },
     "classConstant.protected": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L251"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L275"
             ]
         }
     },
@@ -10968,7 +10975,7 @@
     "outOfClass.parent": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L103"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L127"
             ]
         },
         "PHPStan\\Rules\\Classes\\ExistingClassInInstanceOfRule": {
@@ -11005,7 +11012,7 @@
     "outOfClass.self": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L93"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L117"
             ]
         },
         "PHPStan\\Rules\\Classes\\ExistingClassInInstanceOfRule": {
@@ -11042,7 +11049,7 @@
     "outOfClass.static": {
         "PHPStan\\Rules\\Classes\\ClassConstantRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L93"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ClassConstantRule.php#L117"
             ]
         },
         "PHPStan\\Rules\\Classes\\ExistingClassInInstanceOfRule": {
@@ -11941,36 +11948,36 @@
     "phpunit.assertCount": {
         "PHPStan\\Rules\\PHPUnit\\AssertSameWithCountRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameWithCountRule.php#L47",
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameWithCountRule.php#L63"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameWithCountRule.php#L51",
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameWithCountRule.php#L67"
             ]
         }
     },
     "phpunit.assertEquals": {
         "PHPStan\\Rules\\PHPUnit\\AssertEqualsIsDiscouragedRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertEqualsIsDiscouragedRule.php#L66"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertEqualsIsDiscouragedRule.php#L71"
             ]
         }
     },
     "phpunit.assertFalse": {
         "PHPStan\\Rules\\PHPUnit\\AssertSameBooleanExpectedRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameBooleanExpectedRule.php#L50"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameBooleanExpectedRule.php#L54"
             ]
         }
     },
     "phpunit.assertNull": {
         "PHPStan\\Rules\\PHPUnit\\AssertSameNullExpectedRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameNullExpectedRule.php#L44"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameNullExpectedRule.php#L48"
             ]
         }
     },
     "phpunit.assertTrue": {
         "PHPStan\\Rules\\PHPUnit\\AssertSameBooleanExpectedRule": {
             "phpstan/phpstan-phpunit": [
-                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameBooleanExpectedRule.php#L44"
+                "https://github.com/phpstan/phpstan-phpunit/blob/2.0.x/src/Rules/PHPUnit/AssertSameBooleanExpectedRule.php#L48"
             ]
         }
     },
