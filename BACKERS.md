@@ -22,6 +22,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/TicketSwap">TicketSwap (TicketSwap)</a></li>
 <li><a href="https://github.com/craftcms">Craft CMS (craftcms)</a></li>
 <li><a href="https://github.com/cdn77">CDN77.com (cdn77)</a></li>
+<li><a href="https://github.com/m">Matt Mullenweg (m)</a></li>
 <!-- hundred -->
 
 <!-- hundred-org --><li><a href="https://github.com/ohgoodlord">Goodlord (ohgoodlord)</a></li>
@@ -34,6 +35,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/malsatin">Sergey (malsatin)</a></li>
 <li><a href="https://github.com/belsimpel">Belsimpel.nl B.V. (belsimpel)</a></li>
 <li><a href="https://github.com/storyblok">Storyblok (storyblok)</a></li>
+<li><a href="https://github.com/passbolt">Passbolt (passbolt)</a></li>
 <!-- hundred-org -->
 </ul>
 
@@ -123,7 +125,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/amsoell">Andy Soell (amsoell)</a></li>
 <li><a href="https://github.com/pauci">Pavol Kirschbaum (pauci)</a></li>
 <li><a href="https://github.com/maantje">Jamie Schouten (maantje)</a></li>
-<li><a href="https://github.com/lokeshrangani">Lokesh Rangani (lokeshrangani)</a></li>
+<li><a href="https://github.com/lokeshrangani"> (lokeshrangani)</a></li>
 <!-- five -->
 
 <!-- five-org --><li><a href="https://github.com/hxv">Michał Włodarczyk (hxv)</a></li>
