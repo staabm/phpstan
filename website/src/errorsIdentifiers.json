@@ -3497,6 +3497,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\AccessStaticPropertiesInAssignRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
@@ -4054,6 +4059,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/RequireImplementsDefinitionTraitRule.php#L75"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/SealedDefinitionClassRule.php#L78"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\AccessPropertiesInAssignRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L237"
@@ -4423,6 +4433,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\RequireImplementsDefinitionTraitRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L80"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassForbiddenNameCheck.php#L80"
             ]
@@ -5741,6 +5756,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\RequireImplementsDefinitionTraitRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
             ]
@@ -8700,6 +8720,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
             ]
         },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
+            ]
+        },
         "PHPStan\\Rules\\Properties\\AccessStaticPropertiesInAssignRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
@@ -11617,7 +11642,7 @@
     "phpDoc.phpstanTag": {
         "PHPStan\\Rules\\PhpDoc\\InvalidPHPStanDocTagRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPHPStanDocTagRule.php#L114"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/InvalidPHPStanDocTagRule.php#L115"
             ]
         }
     },
@@ -13942,6 +13967,83 @@
             ]
         }
     },
+    "sealed.deprecatedClass": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L62"
+            ]
+        }
+    },
+    "sealed.deprecatedEnum": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L62"
+            ]
+        }
+    },
+    "sealed.deprecatedInterface": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L62"
+            ]
+        }
+    },
+    "sealed.deprecatedTrait": {
+        "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
+            "phpstan/phpstan-deprecation-rules": [
+                "https://github.com/phpstan/phpstan-deprecation-rules/blob/2.0.x/src/Rules/Deprecations/RestrictedDeprecatedClassNameUsageExtension.php#L62"
+            ]
+        }
+    },
+    "sealed.internalClass": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        }
+    },
+    "sealed.internalEnum": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        }
+    },
+    "sealed.internalInterface": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        }
+    },
+    "sealed.internalTrait": {
+        "PHPStan\\Rules\\InternalTag\\RestrictedInternalClassNameUsageExtension": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/InternalTag/RestrictedInternalClassNameUsageExtension.php#L65"
+            ]
+        }
+    },
+    "sealed.nonObject": {
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/SealedDefinitionClassRule.php#L67"
+            ]
+        }
+    },
+    "sealed.onEnum": {
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/SealedDefinitionClassRule.php#L56"
+            ]
+        }
+    },
+    "sealed.onTrait": {
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionTraitRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/SealedDefinitionTraitRule.php#L49"
+            ]
+        }
+    },
     "selfOut.deprecatedClass": {
         "PHPStan\\Rules\\Deprecations\\RestrictedDeprecatedClassNameUsageExtension": {
             "phpstan/phpstan-deprecation-rules": [
@@ -15158,6 +15260,11 @@
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\RequireImplementsDefinitionTraitRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
+            ]
+        },
+        "PHPStan\\Rules\\PhpDoc\\SealedDefinitionClassRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/ClassCaseSensitivityCheck.php#L54"
             ]
