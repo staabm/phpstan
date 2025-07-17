@@ -11956,6 +11956,13 @@
             ]
         }
     },
+    "phpstanPlayground.phpDoc": {
+        "PHPStan\\Rules\\Playground\\PhpdocCommentRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Playground/PhpdocCommentRule.php#L45"
+            ]
+        }
+    },
     "phpstanPlayground.staticWithoutType": {
         "PHPStan\\Rules\\Playground\\StaticVarWithoutTypeRule": {
             "phpstan/phpstan-src": [
