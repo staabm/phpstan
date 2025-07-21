@@ -10534,7 +10534,7 @@
     "new.static": {
         "PHPStan\\Rules\\Classes\\NewStaticRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/NewStaticRule.php#L46"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/NewStaticRule.php#L54"
             ]
         }
     },
