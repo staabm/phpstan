@@ -49,7 +49,7 @@ jobs:
           file: 'BACKERS.md'
           minimum: 500
           maximum: 2999
-          marker: 'five'
+          marker: 'indi'
           template: ${{ steps.template.outputs.text }}
 
       - name: Generate Sponsors
@@ -60,7 +60,7 @@ jobs:
           minimum: 500
           maximum: 2999
           organization: true
-          marker: 'five-org'
+          marker: 'indi-org'
           template: ${{ steps.template.outputs.text }}
 
       - name: Generate Sponsors
@@ -70,7 +70,7 @@ jobs:
           file: 'BACKERS.md'
           minimum: 3000
           maximum: 9999
-          marker: 'thirty'
+          marker: 'small'
           template: ${{ steps.template.outputs.text }}
 
       - name: Generate Sponsors
@@ -81,7 +81,7 @@ jobs:
           minimum: 3000
           maximum: 9999
           organization: true
-          marker: 'thirty-org'
+          marker: 'small-org'
           template: ${{ steps.template.outputs.text }}
 
       - name: Generate Sponsors
@@ -90,7 +90,8 @@ jobs:
           token: ${{ secrets.SPONSORS_PAT }}
           file: 'BACKERS.md'
           minimum: 10000
-          marker: 'hundred'
+          maximum: 32999
+          marker: 'bronze'
           template: ${{ steps.template.outputs.text }}
 
       - name: Generate Sponsors
@@ -99,8 +100,49 @@ jobs:
           token: ${{ secrets.SPONSORS_PAT }}
           file: 'BACKERS.md'
           minimum: 10000
+          maximum: 32999
           organization: true
-          marker: 'hundred-org'
+          marker: 'bronze-org'
+          template: ${{ steps.template.outputs.text }}
+
+      - name: Generate Sponsors
+        uses: ondrejmirtes/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_PAT }}
+          file: 'BACKERS.md'
+          minimum: 33000
+          maximum: 49999
+          marker: 'silver'
+          template: ${{ steps.template.outputs.text }}
+
+      - name: Generate Sponsors
+        uses: ondrejmirtes/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_PAT }}
+          file: 'BACKERS.md'
+          minimum: 33000
+          maximum: 49999
+          organization: true
+          marker: 'silver-org'
+          template: ${{ steps.template.outputs.text }}
+
+      - name: Generate Sponsors
+        uses: ondrejmirtes/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_PAT }}
+          file: 'BACKERS.md'
+          minimum: 50000
+          marker: 'gold'
+          template: ${{ steps.template.outputs.text }}
+
+      - name: Generate Sponsors
+        uses: ondrejmirtes/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_PAT }}
+          file: 'BACKERS.md'
+          minimum: 50000
+          organization: true
+          marker: 'gold-org'
           template: ${{ steps.template.outputs.text }}
 
       - name: "Commit changes"
