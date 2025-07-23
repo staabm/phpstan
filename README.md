@@ -28,9 +28,13 @@ can be checked before you run the actual line.
 
 <a href="https://ma.tt/"><img src="website/src/images/sponsor/matt.png" alt="Matt Mullenweg" width="290" height="64"></a>
 
+<br><br>
+
 ### Silver Sponsor
 
 <a href="https://www.startupjobs.cz/startup/shipmonk"><img src="website/src/images/sponsor/shipmonk.jpg" alt="ShipMonk" width="290" height="64"></a>
+
+<br><br>
 
 ### Bronze Sponsors
 
