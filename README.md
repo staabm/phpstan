@@ -38,7 +38,7 @@ can be checked before you run the actual line.
 &nbsp;&nbsp;&nbsp;
 <a href="https://packagist.com/?utm_source=phpstan&utm_medium=readme&utm_campaign=sponsorlogo"><img src="website/src/images/sponsor/packagist.png" alt="Private Packagist" width="283" height="64"></a>
 <br>
-<a href="https://www.cdn77.com/"><img src="website/src/images/sponsor/cdn77.png" alt="CDN77" width="283" height="64"></a>
+<a href="https://www.cdn77.com/"><img src="website/src/images/sponsor/cdn77.png" alt="CDN77" width="290" height="64"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://blackfire.io/docs/introduction?utm_source=phpstan&utm_medium=github_readme&utm_campaign=logo"><img src="website/src/images/sponsor/blackfire.png" alt="Blackfire.io" width="254" height="64"></a>
 <br>
