@@ -24,6 +24,8 @@ can be checked before you run the actual line.
 
 ## Sponsors
 
+Want your logo here? [Learn more »](https://phpstan.org/sponsor)
+
 ### Gold Sponsor
 
 <a href="https://ma.tt/"><img src="website/src/images/sponsor/matt.png" alt="Matt Mullenweg" width="290" height="64"></a>
@@ -79,7 +81,7 @@ can be checked before you run the actual line.
 <a href="https://route4me.com/"><img src="website/src/images/sponsor/route4me.png" alt="Route4Me: Route Optimizer and Route Planner Software" width="283" height="64"></a>
 
 
-[**You can now sponsor my open-source work on PHPStan through GitHub Sponsors and also directly.**](https://phpstan.org/sponsor)
+[**You can sponsor my open-source work on PHPStan through GitHub Sponsors and also directly.**](https://phpstan.org/sponsor)
 
 One-time donations [through Revolut.me](https://revolut.me/ondrejmirtes) are also accepted. To request an invoice, [contact me](mailto:ondrej@mirtes.cz) through e-mail.
 
