@@ -26,9 +26,10 @@ can be checked before you run the actual line.
 
 Want your logo here? [Learn more »](https://phpstan.org/sponsor)
 
-### Gold Sponsor
+### Gold Sponsors
 
 <a href="https://ma.tt/"><img src="website/src/images/sponsor/matt.png" alt="Matt Mullenweg" width="290" height="64"></a>
+<a href="https://mojam.co/"><img src="website/src/images/sponsor/mojam.png" alt="Mojam" width="290" height="64"></a>
 
 <br><br>
 
