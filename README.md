@@ -33,9 +33,10 @@ Want your logo here? [Learn more »](https://phpstan.org/sponsor)
 
 <br><br>
 
-### Silver Sponsor
+### Silver Sponsors
 
 <a href="https://www.startupjobs.cz/startup/shipmonk"><img src="website/src/images/sponsor/shipmonk.jpg" alt="ShipMonk" width="290" height="64"></a>
+<a href="https://www.shopware.com/en/"><img src="website/src/images/sponsor/shopware.png" alt="Shopware" width="284" height="64"></a>
 
 <br><br>
 
@@ -65,7 +66,7 @@ Want your logo here? [Learn more »](https://phpstan.org/sponsor)
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.edgenext.com/"><img src="website/src/images/sponsor/edgenext.png" alt="EdgeNext" width="283" height="64"></a>
 <br>
-<a href="https://www.shopware.com/en/"><img src="website/src/images/sponsor/shopware.png" alt="Shopware" width="284" height="64"></a>
+<a href="https://route4me.com/"><img src="website/src/images/sponsor/route4me.png" alt="Route4Me: Route Optimizer and Route Planner Software" width="283" height="64"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://craftcms.com/"><img src="website/src/images/sponsor/craftcms.png" alt="Craft CMS" width="283" height="64"></a>
 <br>
@@ -79,7 +80,7 @@ Want your logo here? [Learn more »](https://phpstan.org/sponsor)
 <br>
 <a href="https://www.shoptet.cz/"><img src="website/src/images/sponsor/shoptet.png" alt="Shoptet" width="283" height="64"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://route4me.com/"><img src="website/src/images/sponsor/route4me.png" alt="Route4Me: Route Optimizer and Route Planner Software" width="283" height="64"></a>
+
 
 
 [**You can sponsor my open-source work on PHPStan through GitHub Sponsors and also directly.**](https://phpstan.org/sponsor)
