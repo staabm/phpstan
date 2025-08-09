@@ -171,7 +171,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/alisqi">AlisQI (alisqi)</a></li>
 <li><a href="https://github.com/WyriHaximus">Cees-Jan Kiewiet (WyriHaximus)</a></li>
 <li><a href="https://github.com/lubatti">Lautaro Lubatti (lubatti)</a></li>
-<li><a href="https://github.com/istiak-tridip">Istiak Tridip (istiak-tridip)</a></li>
 <li><a href="https://github.com/kassner">Rafael Kassner (kassner)</a></li>
 <li><a href="https://github.com/ssddanbrown">Dan Brown (ssddanbrown)</a></li>
 <li><a href="https://github.com/zeleznypa">Pavel Železný (zeleznypa)</a></li>
