@@ -7968,7 +7968,7 @@
     "ignore.unmatched": {
         "PHPStan\\Analyser\\Ignore\\IgnoredErrorHelperResult": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/Ignore/IgnoredErrorHelperResult.php#L228"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/Ignore/IgnoredErrorHelperResult.php#L232"
             ]
         }
     },
