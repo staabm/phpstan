@@ -209,9 +209,8 @@ In example below, consider following scenario: user has `Admin` related model, b
 
 ```php
 /**
-* @phpstan-assert-if-true Admin $this->admin
-* @phpstan-assert-if-true true $this->admin->active
-*/
+ * @phpstan-assert-if-true Admin $this->admin
+ */
 public function isAdmin(): bool
 {
     return $this->admin !== null && $this->admin->active === true;
@@ -221,11 +220,8 @@ public function isAdmin(): bool
 
 if ($user->isAdmin()) {
     // $user->admin is narrowed to Admin
-    // $user->admin->active is narrowed to true
 } else {
-    // $user->admin is narrowed to null
-    // $user->admin->active is narrowed to false
-    // but in reality $user->admin might still be Admin
+    // $user->admin is narrowed to null (which is wrong)
 }
 ```
 
@@ -233,9 +229,8 @@ Now if we add `=` operator in front of the type there will be no automatic narro
 
 ```php
 /**
-* @phpstan-assert-if-true =Admin $this->admin
-* @phpstan-assert-if-true =true $this->admin->active
-*/
+ * @phpstan-assert-if-true =Admin $this->admin
+ */
 public function isAdmin(): bool
 {
     return $this->admin !== null && $this->admin->active === true;
@@ -245,10 +240,8 @@ public function isAdmin(): bool
 
 if ($user->isAdmin()) {
     // $user->admin is narrowed to Admin
-    // $user->admin->active is narrowed to true
 } else {
     // $user->admin is not narrowed and stays Admin|null
-    // $user->admin->active is not narrowed and stays bool
 }
 ```
 
