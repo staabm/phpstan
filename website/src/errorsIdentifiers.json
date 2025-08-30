@@ -5853,7 +5853,7 @@
     "equal.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
@@ -7890,7 +7890,7 @@
     "greater.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
@@ -7911,7 +7911,7 @@
     "greaterOrEqual.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
@@ -10736,7 +10736,7 @@
     "notEqual.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
@@ -14221,7 +14221,7 @@
     "smaller.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
@@ -14242,14 +14242,14 @@
     "smallerOrEqual.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
     "spaceship.invalid": {
         "PHPStan\\Rules\\Operators\\InvalidComparisonOperationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L100"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Operators/InvalidComparisonOperationRule.php#L194"
             ]
         }
     },
