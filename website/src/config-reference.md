@@ -287,6 +287,15 @@ parameters:
 		- Foo::BAR_CONSTANT # class constants are also supported
 ```
 
+In PHPStan 2.1.23 and later, it's possible to explicitly set the constant type:
+
+```yaml
+parameters:
+	dynamicConstantNames:
+		DATABASE_ENGINE: string|null
+		Foo::BAR_CONSTANT: int|string|null
+```
+
 Stub files
 ------------------
 
