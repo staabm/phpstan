@@ -395,6 +395,13 @@ jobs:
               cd e2e/no-autoloader
               composer install --ignore-platform-reqs
               ../../phpstan analyse -l 8 -c phpstan.neon src tests
+          - php-version: 8.4
+            ini-values: memory_limit=256M
+            operating-system: ubuntu-latest
+            script: |
+              cd e2e/hoa-autoload
+              composer install
+              ../../phpstan
 
     steps:
       - name: "Checkout"
