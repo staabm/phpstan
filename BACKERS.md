@@ -153,6 +153,7 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/eliashaeussler">Elias Häußler (eliashaeussler)</a></li>
 <li><a href="https://github.com/Enrise">Enrise (Enrise)</a></li>
 <li><a href="https://github.com/lucassabreu">Lucas dos Santos Abreu (lucassabreu)</a></li>
+<li><a href="https://github.com/westonruter">Weston Ruter (westonruter)</a></li>
 <li><a href="https://github.com/matthewmincher">Matthew Mincher (matthewmincher)</a></li>
 <li><a href="https://github.com/loganmarchione">Logan Marchione (loganmarchione)</a></li>
 <li><a href="https://github.com/mceglowski"> (mceglowski)</a></li>
@@ -177,5 +178,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/BinaryKitten">Kathryn Reeve (BinaryKitten)</a></li>
 <li><a href="https://github.com/richardgaunt"> (richardgaunt)</a></li>
 <li><a href="https://github.com/pxlrbt">Dennis Koch (pxlrbt)</a></li>
+<li><a href="https://github.com/fetova"> (fetova)</a></li>
 <!-- indi-org -->
 </ul>
