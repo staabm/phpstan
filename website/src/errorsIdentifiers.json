@@ -9109,14 +9109,14 @@
     "match.alwaysTrue": {
         "PHPStan\\Rules\\Comparison\\MatchExpressionRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/MatchExpressionRule.php#L120"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/MatchExpressionRule.php#L121"
             ]
         }
     },
     "match.unhandled": {
         "PHPStan\\Rules\\Comparison\\MatchExpressionRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/MatchExpressionRule.php#L145"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Comparison/MatchExpressionRule.php#L146"
             ]
         }
     },
