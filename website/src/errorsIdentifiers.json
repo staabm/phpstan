@@ -3682,6 +3682,11 @@
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ExistingClassInInstanceOfRule.php#L80"
             ]
         },
+        "PHPStan\\Rules\\Classes\\ImpossibleInstanceOfRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L241"
+            ]
+        },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L136",
@@ -8277,14 +8282,14 @@
     "instanceof.alwaysFalse": {
         "PHPStan\\Rules\\Classes\\ImpossibleInstanceOfRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L95"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L105"
             ]
         }
     },
     "instanceof.alwaysTrue": {
         "PHPStan\\Rules\\Classes\\ImpossibleInstanceOfRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L114"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L124"
             ]
         }
     },
@@ -8347,7 +8352,7 @@
     "instanceof.invalidExprType": {
         "PHPStan\\Rules\\Classes\\ImpossibleInstanceOfRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L65"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/ImpossibleInstanceOfRule.php#L70"
             ]
         }
     },
