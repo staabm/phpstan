@@ -3558,7 +3558,7 @@
         },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L125"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L126"
             ]
         },
         "PHPStan\\Rules\\Methods\\CallStaticMethodsRule": {
@@ -3689,7 +3689,7 @@
         },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L136",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L137",
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L241"
             ]
         },
@@ -10431,7 +10431,7 @@
     "new.abstract": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L174"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L175"
             ]
         }
     },
@@ -10480,14 +10480,14 @@
     "new.enum": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L158"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L159"
             ]
         }
     },
     "new.interface": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L166"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L167"
             ]
         }
     },
@@ -10522,21 +10522,21 @@
     "new.noConstructor": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L188"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L189"
             ]
         }
     },
     "new.privateConstructor": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L204"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L205"
             ]
         }
     },
     "new.protectedConstructor": {
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L204"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L205"
             ]
         }
     },
@@ -11032,7 +11032,7 @@
         },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L114"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L115"
             ]
         },
         "PHPStan\\Rules\\Methods\\CallStaticMethodsRule": {
@@ -11069,7 +11069,7 @@
         },
         "PHPStan\\Rules\\Classes\\InstantiationRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L105"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Classes/InstantiationRule.php#L106"
             ]
         },
         "PHPStan\\Rules\\Methods\\CallStaticMethodsRule": {
