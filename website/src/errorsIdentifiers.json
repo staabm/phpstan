@@ -4960,6 +4960,13 @@
             ]
         }
     },
+    "consistentConstructor.private": {
+        "PHPStan\\Rules\\Methods\\ConsistentConstructorDeclarationRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/ConsistentConstructorDeclarationRule.php#L45"
+            ]
+        }
+    },
     "constant.deprecated": {
         "PHPStan\\Rules\\Deprecations\\FetchingDeprecatedConstRule": {
             "phpstan/phpstan-deprecation-rules": [
