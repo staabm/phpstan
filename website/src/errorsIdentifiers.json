@@ -6037,7 +6037,7 @@
         },
         "PHPStan\\Rules\\Functions\\CallToFunctionStatementWithoutSideEffectsRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/CallToFunctionStatementWithoutSideEffectsRule.php#L137"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/CallToFunctionStatementWithoutSideEffectsRule.php#L142"
             ]
         }
     },
@@ -9455,7 +9455,7 @@
         },
         "PHPStan\\Rules\\Methods\\CallToMethodStatementWithoutSideEffectsRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToMethodStatementWithoutSideEffectsRule.php#L79"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToMethodStatementWithoutSideEffectsRule.php#L83"
             ]
         }
     },
@@ -10548,8 +10548,8 @@
         },
         "PHPStan\\Rules\\Methods\\CallToConstructorStatementWithoutSideEffectsRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToConstructorStatementWithoutSideEffectsRule.php#L55",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToConstructorStatementWithoutSideEffectsRule.php#L70"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToConstructorStatementWithoutSideEffectsRule.php#L56",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToConstructorStatementWithoutSideEffectsRule.php#L75"
             ]
         }
     },
@@ -14588,7 +14588,7 @@
         },
         "PHPStan\\Rules\\Methods\\CallToStaticMethodStatementWithoutSideEffectsRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToStaticMethodStatementWithoutSideEffectsRule.php#L101"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Methods/CallToStaticMethodStatementWithoutSideEffectsRule.php#L106"
             ]
         }
     },
