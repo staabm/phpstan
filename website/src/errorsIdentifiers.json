@@ -1565,12 +1565,12 @@
     "assert.alreadyNarrowedType": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L132"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L127"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L132"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L127"
             ]
         }
     },
@@ -1605,12 +1605,12 @@
     "assert.impossibleType": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L124"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L119"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L124"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L119"
             ]
         }
     },
@@ -1645,36 +1645,36 @@
     "assert.trait": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L154"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L149"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L154"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L149"
             ]
         }
     },
     "assert.unknownExpr": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L93"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L88"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L93"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L88"
             ]
         }
     },
     "assert.unresolvableType": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L111"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L106"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L111"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L106"
             ]
         }
     },
@@ -4028,7 +4028,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L143"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L138"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule": {
@@ -4056,7 +4056,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L143"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L138"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\RequireExtendsDefinitionClassRule": {
@@ -9965,12 +9965,12 @@
         },
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L214"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L209"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L214"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L209"
             ]
         },
         "PHPStan\\Rules\\Properties\\MissingPropertyTypehintRule": {
@@ -10114,7 +10114,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L204"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L199"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\InvalidPhpDocVarTagTypeRule": {
@@ -10124,7 +10124,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L204"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L199"
             ]
         },
         "PHPStan\\Rules\\Properties\\MissingPropertyTypehintRule": {
@@ -10231,7 +10231,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L192"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L187"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\InvalidPhpDocVarTagTypeRule": {
@@ -10241,7 +10241,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L192"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L187"
             ]
         },
         "PHPStan\\Rules\\Properties\\MissingPropertyTypehintRule": {
@@ -11368,7 +11368,7 @@
     "parameter.notFound": {
         "PHPStan\\Rules\\PhpDoc\\FunctionAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L79"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L74"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\FunctionConditionalReturnTypeRule": {
@@ -11393,7 +11393,7 @@
         },
         "PHPStan\\Rules\\PhpDoc\\MethodAssertRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L79"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/PhpDoc/AssertRuleHelper.php#L74"
             ]
         },
         "PHPStan\\Rules\\PhpDoc\\MethodConditionalReturnTypeRule": {
