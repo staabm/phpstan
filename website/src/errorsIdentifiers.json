@@ -944,7 +944,7 @@
         },
         "PHPStan\\Rules\\Functions\\PrintfParameterTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/PrintfParameterTypeRule.php#L148"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Functions/PrintfParameterTypeRule.php#L157"
             ]
         },
         "PHPStan\\Rules\\Functions\\RandomIntParametersRule": {
