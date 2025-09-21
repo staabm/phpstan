@@ -11228,37 +11228,37 @@
     "paramOut.tooWideBool": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         }
     },
@@ -11277,37 +11277,37 @@
     "paramOut.unusedType": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         }
     },
@@ -11768,37 +11768,37 @@
     "parameterByRef.tooWideBool": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         }
     },
@@ -11812,37 +11812,37 @@
     "parameterByRef.unusedType": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         }
     },
@@ -13311,37 +13311,37 @@
     "property.tooWideBool": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         }
     },
@@ -13400,37 +13400,37 @@
     "property.unusedType": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297"
             ]
         }
     },
@@ -14103,37 +14103,37 @@
     "return.tooWideBool": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L286"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L276"
             ]
         }
     },
@@ -14271,44 +14271,44 @@
     "return.unusedType": {
         "PHPStan\\Rules\\TooWideTypehints\\TooWideArrowFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideClosureReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideFunctionReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodParameterOutTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWideMethodReturnTypehintRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         },
         "PHPStan\\Rules\\TooWideTypehints\\TooWidePropertyTypeRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L307",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L338"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L297",
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/TooWideTypehints/TooWideTypeCheck.php#L328"
             ]
         }
     },
