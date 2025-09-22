@@ -122,7 +122,8 @@ function foo(array $count): void
 Iterables
 -------------------------
 
-* `iterable<Type>`
+* `iterable<ValueType>`
+* `iterable<KeyType, ValueType>`
 * `Collection<Type>`
 * `Collection<int, Type>`
 * `Collection|Type[]`
