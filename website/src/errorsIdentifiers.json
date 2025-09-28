@@ -4944,12 +4944,12 @@
     "closure.unusedUse": {
         "PHPStan\\Rules\\Classes\\UnusedConstructorParametersRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L62"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L58"
             ]
         },
         "PHPStan\\Rules\\Functions\\UnusedClosureUsesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L62"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L58"
             ]
         }
     },
@@ -5076,12 +5076,12 @@
     "constructor.unusedParameter": {
         "PHPStan\\Rules\\Classes\\UnusedConstructorParametersRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L62"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L58"
             ]
         },
         "PHPStan\\Rules\\Functions\\UnusedClosureUsesRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L62"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/UnusedFunctionParametersCheck.php#L58"
             ]
         }
     },
