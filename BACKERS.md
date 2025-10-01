@@ -154,8 +154,6 @@ the logo of your company in PHPStan's README and the website.
 <li><a href="https://github.com/Enrise">Enrise (Enrise)</a></li>
 <li><a href="https://github.com/lucassabreu">Lucas dos Santos Abreu (lucassabreu)</a></li>
 <li><a href="https://github.com/westonruter">Weston Ruter (westonruter)</a></li>
-<li><a href="https://github.com/matthewmincher">Matthew Mincher (matthewmincher)</a></li>
-<li><a href="https://github.com/loganmarchione">Logan Marchione (loganmarchione)</a></li>
 <li><a href="https://github.com/mceglowski"> (mceglowski)</a></li>
 <li><a href="https://github.com/olliescase">Oliver Scase (olliescase)</a></li>
 <li><a href="https://github.com/zajca">Martin Zajíc (zajca)</a></li>
