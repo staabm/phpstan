@@ -1500,8 +1500,7 @@
     "array.invalidKey": {
         "PHPStan\\Rules\\Arrays\\InvalidKeyInArrayItemRule": {
             "phpstan/phpstan-src": [
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Arrays/InvalidKeyInArrayItemRule.php#L46",
-                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Arrays/InvalidKeyInArrayItemRule.php#L52"
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/Arrays/InvalidKeyInArrayItemRule.php#L60"
             ]
         }
     },
@@ -3646,6 +3645,11 @@
             ]
         },
         "PHPStan\\Rules\\Arrays\\InvalidKeyInArrayDimFetchRule": {
+            "phpstan/phpstan-src": [
+                "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L242"
+            ]
+        },
+        "PHPStan\\Rules\\Arrays\\InvalidKeyInArrayItemRule": {
             "phpstan/phpstan-src": [
                 "https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Rules/RuleLevelHelper.php#L242"
             ]
