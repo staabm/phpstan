@@ -1,0 +1,14 @@
+.github/workflows/claude-easy-fix-on-milestone.yml
+  h_53f8f6db02589e 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "340daf53aaff9c6cebd74b0a02de539660fa96b5",
+  "prompts": {},
+  "humans": {
+    "h_53f8f6db02589e": {
+      "author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  }
+}
