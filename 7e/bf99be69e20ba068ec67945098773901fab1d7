@@ -1,0 +1,14 @@
+playground-runner/composer.lock
+  h_53f8f6db02589e 1457,1461,1465-1466,1503,1505-1506,3049
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ebf99be69e20ba068ec67945098773901fab1d7",
+  "prompts": {},
+  "humans": {
+    "h_53f8f6db02589e": {
+      "author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  }
+}
