@@ -1,0 +1,19 @@
+.github/workflows/integration-tests.yml
+  s_2f1d7f45b638f4::t_990025c23b54c6 127,396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "85a794c72b729c2c268b81e78626913cf3eb3620",
+  "prompts": {},
+  "sessions": {
+    "s_2f1d7f45b638f4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "e3d8766a-da81-4ef5-8f89-fad3c12cf716",
+        "model": "unknown"
+      },
+      "human_author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  }
+}
