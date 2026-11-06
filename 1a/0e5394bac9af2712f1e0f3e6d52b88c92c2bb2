@@ -1,0 +1,14 @@
+website/src/developing-extensions/result-cache-meta-extensions.md
+  h_53f8f6db02589e 160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1a0e5394bac9af2712f1e0f3e6d52b88c92c2bb2",
+  "prompts": {},
+  "humans": {
+    "h_53f8f6db02589e": {
+      "author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  }
+}
