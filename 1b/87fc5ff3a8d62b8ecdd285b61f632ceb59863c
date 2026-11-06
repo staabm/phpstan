@@ -1,0 +1,24 @@
+website/src/developing-extensions/result-cache-meta-extensions.md
+  s_5b703ee9793dab::t_a43f9d2c178be5 160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1b87fc5ff3a8d62b8ecdd285b61f632ceb59863c",
+  "prompts": {},
+  "humans": {
+    "h_53f8f6db02589e": {
+      "author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  },
+  "sessions": {
+    "s_5b703ee9793dab": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1793952728363",
+        "model": "unknown"
+      },
+      "human_author": "Markus Staab <markus.staab@redaxo.de>"
+    }
+  }
+}
